@@ -22,7 +22,7 @@ For more experienced people or super-eager people, it will be helpful if you cou
 
 
 Goal: 99 Projects  
-Current: 1 Project
+Current: 0 Projects
 
 
 ## Credit:
