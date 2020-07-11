@@ -27,7 +27,7 @@ Current: 0 Projects
 
 ## Credit:
 
-This project is inspired by Unnit Metaliya’s answer on quota: https://qr.ae/pNK0FW
+This project is inspired by Unnit Metaliya’s answer on quora: https://qr.ae/pNK0FW
 
 For credits, these are the two repos (one for C and one for React) where I got the idea from:
 - https://github.com/truedl/c-for-beginners 
