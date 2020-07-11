@@ -10,7 +10,7 @@ The format is roughly the following:
 
 2. If enough people are interested in that issue ticket, hopefully either you or someone else will write the exercise statements properly as somehting like a lab exercise/homework.
 
-3. Then someone will fork the repo, write up their solution, with a bit of polish and documentation, submit a pull request. I'm going to write up a contributing guide soon. For now, the guideline is just: create a folder, say '001' with two subfolder 'exercise' and 'solution. Then dump codes inside.
+3. Then someone will fork the repo, write up their solution, with a bit of polish and documentation, submit a pull request. I'm going to write up a contributing guide soon. For now, the guideline is just: create a folder, say '001' with two subfolder 'exercise' and 'solution. Then dump codes inside. I created a silly project 000 as an example of a hello-world Python code.
 
 4. Some of us will scrutinize the codes, review, make suggestions and eventually include (merge) them into the main project repo.
 
@@ -18,11 +18,11 @@ The format is roughly the following:
 
 ## Recruiting core team
 
-For more experienced people or super-eager to help maintain this repo, please let me know and I can figure out how we could assemble a core team. Many thanks and hope that everyone will have a great learning experience !
+For more experienced people or super-eager people, it will be helpful if you could join me in maintaining this repo. Please let me know and we can figure out how we could assemble a core team. Many thanks and hope that everyone will have a great learning experience !
 
 
 Goal: 99 Projects  
-Current: 0 Projects
+Current: 1 Project
 
 
 ## Credit:
