@@ -1,10 +1,10 @@
-👋🛳️ Ahoy, Welcome to your first ML project.
+# 👋🛳️ Ahoy, Welcome to your first ML project.
 
 This is one of the first newbie challenge/problem that you should be doing to enter into the world of ML.
 
 We will use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-#THE CHALLENGE
+# THE CHALLENGE
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
