@@ -16,8 +16,9 @@ The format is roughly the following:
 
 5. Repeat 3-4 above for a particular exercise. Repeat 1-5 indefinitely till we hit 99/99 projects.
 
-Please see [general contribution guidelines](GENERAL-CONTRIBUTING.md) for more details. 
-Please abide by [code of conduct guidelines](CODE-OF-CONDUCT.md).
+Please see [general contribution guidelines](CONTRIBUTING.md) for more details. 
+
+Please abide by [code of conduct guidelines](CODE-OF-CONDUCT.md) to have an open and friendly open source collaboration.
 
 Goal: 99 Projects  
 Current: 0 Projects
