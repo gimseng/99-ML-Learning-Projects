@@ -8,7 +8,7 @@ This is still work-in-progress, but I hope that people can start contributing co
 The format is roughly the following:
 1. Propose an exercise by creating an issue ticket and write what you think is an useful coding exercise for certain concepts. 
 
-2. If enough people are interested in that issue ticket, hopefully either you or someone else will write the exercise statements properly as somehting like a lab exercise/homework.
+2. If enough people are interested in that issue ticket, hopefully either you or someone else will write the exercise statement properly similar to the style of a lab exercise/homework question.
 
 3. Then someone will fork the repo, write up their solution, with a bit of polish and documentation, submit a pull request. I'm going to write up a contributing guide soon. For now, the guideline is just: create a folder, say '001' with two subfolder 'exercise' and 'solution. Then dump codes inside. I created a silly project 000 as an example of a hello-world Python code.
 
