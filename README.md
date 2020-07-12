@@ -16,10 +16,8 @@ The format is roughly the following:
 
 5. Repeat 3-4 above for a particular exercise. Repeat 1-5 indefinitely till we hit 99/99 projects.
 
-## Recruiting core team
-
-For more experienced people or super-eager people, it will be helpful if you could join me in maintaining this repo. Please let me know and we can figure out how we could assemble a core team. Many thanks and hope that everyone will have a great learning experience !
-
+Please see [general contribution guidelines](GENERAL-CONTRIBUTING.md) for more details. 
+Please abide by [code of conduct guidelines](CODE-OF-CONDUCT.md).
 
 Goal: 99 Projects  
 Current: 0 Projects
@@ -32,3 +30,7 @@ This project is inspired by Unnit Metaliya’s answer on quora: https://qr.ae/pN
 For credits, these are the two repos (one for C and one for React) where I got the idea from:
 - https://github.com/truedl/c-for-beginners 
 - https://github.com/UnnitMetaliya/99-reactjs-project-ideas
+
+## License
+
+This repo is covered under [The MIT License](LICENSE).
