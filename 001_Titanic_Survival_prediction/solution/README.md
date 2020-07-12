@@ -4,7 +4,7 @@ In this folder, you will find two approaches to modeling the Titanic survival pr
 
 ## Classical approach: 
 
-In `Titanic Survival Analysis.ipynb`, you will find a detailed data wrangling approach to clean and prepare the data. Moreoever, classical machine learning classifiers from the list below are used:
+In `Titanic_Classical.ipynb`, you will find a detailed data wrangling approach to clean and prepare the data. Moreoever, classical machine learning classifiers from the list below are used:
 
 - Logistic Regression
 - Support Vector Machines
