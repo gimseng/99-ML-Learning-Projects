@@ -3,7 +3,7 @@ A list of 99 machine learning projects for anyone interested to learn machine le
 
 This is still work-in-progress, but I hope that people can start contributing codes. For now, I'm going with the 'create whatever and we will sort out later' approach. Feel free to create issues to propose ideas, questions, comments and complaints. 
 
-## Format and contribution:
+## Getting Started
 
 The format is roughly the following:
 1. Propose an exercise by creating an issue ticket and write what you think is an useful coding exercise for certain concepts. 
