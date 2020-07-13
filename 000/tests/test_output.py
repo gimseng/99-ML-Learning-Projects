@@ -1,1 +1,1 @@
-from 000.solution import solution
+from ..solution import solution
