@@ -19,11 +19,11 @@ If you can write up the codes for the solution, then follow the _Improving the c
 Generally speaking, you should fork this repository, make changes in your own fork, and then submit a pull request (PR). 
 This is the primary way for you to submit solutions to the exercise in codes. 
 
-If you are not familir with git, we follow the general ["fork-and-pull" Git workflow](https://github.com/susam/gitpr):
+If you are not familir with git, we follow the general ["fork-and-pull"](https://github.com/susam/gitpr) git flow:
 
 1. Fork the repository to your own Github account.
 2. Clone the project to your machine. Add upstream to the original repo.
-3. Create a branch locally with a succinct but descriptive name (typically `dev-something`). It is best practice not to work with the master branch.
+3. Create a branch locally with a succinct but descriptive name (something like `dev-fix-something`). It is best practice not to work with the master branch.
 4. Commit changes to the branch. Commit small changes often and commit frequently with succint and clear messages.
 5. Following any formatting and testing guidelines specific to this repo.
 6. Push changes to your fork. Keep your fork's main development branch updated with upstream's. If there are conflicts, resolve within your own forked version.
