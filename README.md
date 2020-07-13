@@ -23,6 +23,11 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 Goal: 99 Projects  
 Current: 1 Project
 
+## Table of Contents
+
+001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
+
+
 
 ## Credit:
 
