@@ -1,20 +1,19 @@
 # Guidance on how to contribute
 
 There are two primary ways to help:
- - Using the issue tracker, and
- - Improving the code-base.
+ - Propose an exercise using the issue tracker, and
+ - Propose a solution using pull request
 
-
-## Using the issue tracker
+## Propose an exercise using the issue tracker
 
 One generally uses the issue tracker to suggest feature requests, report bugs, and ask questions.
 For our project, you are welcome to propose new exercises to be included in this project by creating an new issue.
 Describe what you would like in this exercise and if possible propose what the solution should look like.
 
-If you can write up the codes for the solution, then follow the _Improving the code-base_guidance below.
+If you can write up the codes for the solution, then follow the _ Propose a solution using pull reques_ below.
 
 
-## Improving the code-base
+##  Propose a solution using pull reques
 
 Generally speaking, you should fork this repository, make changes in your own fork, and then submit a pull request (PR). 
 This is the primary way for you to submit solutions to the exercise in codes. 
