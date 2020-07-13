@@ -35,7 +35,7 @@ If you are not familir with git, we follow the general ["fork-and-pull"](https:/
 
 ## Structuring the execise or solution
 
-First, create the folder based on the next number of the project. For e.g., if you see `015` folder being the latest project folder, then create the `016` folder. Within that, the directory layout should be:
+First, create the folder based on the next number of the project. For e.g., if you see `015` folder being the latest project folder, then create the `016` folder. Within that, the directory layout should be of the following format:
 
     .
     ├── exercise                 # Exercise folder
@@ -43,7 +43,8 @@ First, create the folder based on the next number of the project. For e.g., if y
     └── solution                 # Solution Folder
         ├── readme.md            # A short description on the solutions and what each file does
         └── random_forest.ipynb  # Jupyter notebook solution
-        └── cnn.py               # A python .py solution
+        └── cnn.py               # A python .py solution        
+        └── train.csv            # Some data
         └── ...
 
 

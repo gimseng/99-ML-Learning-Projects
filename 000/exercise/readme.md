@@ -1,5 +1,5 @@
-Exercise goal:
+# Exercise goal
 - Learn the 'print' statement in Python 3.xx
 
-Task:
+# Task
 - Print out 'hello world!'
