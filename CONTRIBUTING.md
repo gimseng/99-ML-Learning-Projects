@@ -2,7 +2,7 @@
 
 There are two primary ways to help:
  - Propose an exercise using the issue tracker, and
- - Propose a solution using pull request
+ - Propose a solution using the pull request
 
 ## Propose an exercise using the issue tracker
 
@@ -10,10 +10,12 @@ One generally uses the issue tracker to suggest feature requests, report bugs, a
 For our project, you are welcome to propose new exercises to be included in this project by creating an new issue.
 Describe what you would like in this exercise and if possible propose what the solution should look like.
 
-If you can write up the codes for the solution, then follow the _ Propose a solution using pull reques_ below.
+If you can write up the exercise statment or the codes for the solution, then follow the guide below.
 
 
-##  Propose a solution using pull reques
+##  Propose a solution using the pull request
+
+### General github workflow
 
 Generally speaking, you should fork this repository, make changes in your own fork, and then submit a pull request (PR). 
 This is the primary way for you to submit solutions to the exercise in codes. 
@@ -29,5 +31,19 @@ If you are not familir with git, we follow the general ["fork-and-pull"](https:/
 7. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
 8. After reviewers approve the PR, your branch (and changes) will be merged to the master branch.
 9. (Optionally) Delete your branch.
+
+
+## Structuring the execise or solution
+
+First, create the folder based on the next number of the project. For e.g., if you see `015` folder being the latest project folder, then create the `016` folder. Within that, the directory layout should be
+    016
+    ├── exercise                 # Exercise folder
+    │   └── readme.md            # A mark-down clear and expansive description of the exercise. Data, goals, methods to use and etc
+    ├── solution                 # Solution Folder
+    │   ├── readme.me            # A short description on the solutions and what each file does
+    │   └── random_forest.ipynb  # Jupyter notebook solution
+    │   └── cnn.py               # A python .py solution
+    │   └── ...
+
 
 
