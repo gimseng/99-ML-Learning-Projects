@@ -28,6 +28,8 @@ Current: 1 Project
 001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
 
 
+## Help and Support
+- Gitter: https://gitter.im/99-ML-Learning-Projects/community
 
 ## Credit:
 
