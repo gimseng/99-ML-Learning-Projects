@@ -23,7 +23,7 @@ In this file, you will find a detailed data wrangling approach to clean and prep
 
 `Titanic_TF_NN.ipynb`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/001n/solution/Titanic_TF_NN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/001/solution/Titanic_TF_NN.ipynb)
 
 
 In this file, you will find a simple 5-layer neural network approach performing the survival classfication task. This is done using Tensorflow using Keras as frontend/API.
