@@ -30,7 +30,7 @@ Current: 1 Project
 
 ## Dependencies
 
-Some of the commonly used libraries and their versions that we typically use:
+Some of the libraries (and their versions) we are using:
 - Python (>= 3.6)
 - NumPy (>= 1.18.5)
 - Pandas (>= 1.0.5)
