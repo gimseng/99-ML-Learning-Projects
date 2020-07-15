@@ -40,6 +40,11 @@ Some of the libraries (and their versions) we are using:
 - Tensorflow (>= 2.2.0)
 - PyTorch (>= 1.5.1)
 
+
+## Help and Support
+- Gitter: https://gitter.im/99-ML-Learning-Projects/community
+
+
 ## Credit:
 
 This project is inspired by Unnit Metaliya’s answer on quora: https://qr.ae/pNK0FW
