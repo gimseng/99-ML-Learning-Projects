@@ -28,6 +28,17 @@ Current: 1 Project
 001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
 
 
+## Dependencies
+
+Some of the commonly used libraries and their versions that we typically use:
+- Python (>= 3.6)
+- NumPy (>= 1.18.5)
+- Pandas (>= 1.0.5)
+- Matplotlib (>= 3.2.2)
+- Seaborn (>= 0.10.1)
+- Scikit-learn (>= 0.22.2)
+- Tensorflow (>= 2.2.0)
+- PyTorch (>= 1.5.1)
 
 ## Credit:
 
