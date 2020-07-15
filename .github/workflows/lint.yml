@@ -16,12 +16,13 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.7.7
+          python-version: 3.6.11
           architecture: x64
-      - name: Checkout PyTorch
-        uses: actions/checkout@master
+
+
       - name: Install flake8
         run: pip install flake8
+
       - name: Run flake8
         uses: suo/flake8-github-action@releases/v1
         with:
