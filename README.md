@@ -42,6 +42,10 @@ Some of the libraries (and their versions) we are using:
 
 
 ## Help and Support
+
+If you want to get in touch with us, say hi on our discord/gitter chatroom:
+
+- Discord: https://discord.gg/VVDg6P4
 - Gitter: https://gitter.im/99-ML-Learning-Projects/community
 
 
