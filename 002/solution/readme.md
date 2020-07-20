@@ -1,5 +1,6 @@
 # My solution
 - Follow the solution notebook:
+
 `Linear-regression.ipynb`
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/002/solution/Linear-regression.ipynb)
