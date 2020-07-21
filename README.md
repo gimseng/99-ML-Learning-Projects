@@ -21,11 +21,15 @@ Please see [general contribution guidelines](CONTRIBUTING.md) for more details.
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 Goal: 99 Projects  
-Current: 1 Project
+Current: 3 Project
 
 ## Table of Contents
 
 001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
+
+002. [Linear Regression](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
+
+003. MNIST Handwriting Recognition
 
 
 ## Dependencies
@@ -48,6 +52,8 @@ If you want to get in touch with us, say hi on our discord/gitter chatroom:
 - Discord: https://discord.gg/VVDg6P4
 - Gitter: https://gitter.im/99-ML-Learning-Projects/community
 
+## Recent Contributors
+[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/0)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/0)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/1)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/1)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/2)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/2)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/3)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/3)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/4)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/4)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/5)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/5)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/6)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/6)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/7)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/7)
 
 ## Credit:
 

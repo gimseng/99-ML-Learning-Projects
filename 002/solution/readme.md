@@ -18,3 +18,4 @@ In this file, you will find a simple 2-layer neural network approach performing 
 
 In this file, you will find a convolutional neural network approach having multiple techniques like Batch Normalization and Dropout included to perform the digit recognition task. This is done using Tensorflow using Keras as frontend/API.
 The accuracy for the same is more than 99% on test set.
+
