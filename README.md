@@ -21,11 +21,15 @@ Please see [general contribution guidelines](CONTRIBUTING.md) for more details.
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 Goal: 99 Projects  
-Current: 1 Project
+Current: 3 Project
 
 ## Table of Contents
 
 001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
+
+002. [Linear Regression](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
+
+003. MNIST Handwriting Recognition
 
 
 ## Dependencies
