@@ -52,6 +52,8 @@ If you want to get in touch with us, say hi on our discord/gitter chatroom:
 - Discord: https://discord.gg/VVDg6P4
 - Gitter: https://gitter.im/99-ML-Learning-Projects/community
 
+## Recent Contributors
+[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/0)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/0)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/1)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/1)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/2)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/2)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/3)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/3)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/4)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/4)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/5)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/5)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/6)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/6)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/7)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/7)
 
 ## Credit:
 
