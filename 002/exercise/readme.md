@@ -13,7 +13,7 @@
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/002/exercise/Linear-regression.ipynb)
 
 
-# Other resources on linear regression:
+# Other resources on linear regression
 
 - [[Video] Linear Regression in one variable (Refer videos from 2.1 - 2.7)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [[Video] Linear Regression with multiple variables (Refer videos from 4.1 - 4.7)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
