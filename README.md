@@ -31,6 +31,7 @@ Current: 3 Project
 
 003. MNIST Handwriting Recognition
 
+004. [Text-generation neural network model (with LSTM)](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise)
 
 ## Dependencies
 
