@@ -29,7 +29,7 @@ Current: 3 Project
 
 002. [Linear Regression](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
 
-003. MNIST Handwriting Recognition
+003. [MNIST Handwriting Digit Recognition](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise)
 
 004. [Text-generation neural network model (with LSTM)](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise)
 
