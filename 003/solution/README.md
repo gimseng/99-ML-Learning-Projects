@@ -6,8 +6,8 @@ In this folder, you will find a jupyter notebook having the solution to the MNIS
 
 `digit_recog_nn.ipynb`
 
-[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/002/solution/digit_recog_nn.ipynb)
-[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/002/solution/digit_recog_nn.ipynb)
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/003/solution/digit_recog_nn.ipynb)
+[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/003/solution/digit_recog_nn.ipynb)
 
 ## Simple neural network: 
 
