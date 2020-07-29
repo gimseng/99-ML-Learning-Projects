@@ -5,6 +5,10 @@
 - Learn how to evaluate models through a 'Loss function'
 - Learn how to optimize a model through Gradient Descent
 
+# Data 
+
+The file `housing_prices.csv` (see [./housing_prices.csv](https://raw.githubusercontent.com/gimseng/99-ML-Learning-Projects/master/002/data/Housing_Prices.csv)).
+
 # Task
 - Follow the Jupyter Notebook and complete the required tasks:
 
