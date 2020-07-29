@@ -1,7 +1,7 @@
 # 99-ML-Learning-Projects
 A list of 99 machine learning projects for anyone interested to learn machine learning from coding and building projects.
 
-Our model is for anyone to contribute a cool exercise and solution that is useful for anyone (including themselves) in their journey of learning machine learning.
+Our model is provide a curated repo for anyone to contribute a cool exercise and solution that is useful for anyone (including themselves) in their journey of learning machine learning.
 
 
 ## Getting Started
@@ -11,7 +11,7 @@ The format is roughly the following:
 
 2. If enough people are interested in that issue ticket, hopefully either you or someone else will write the exercise statement properly similar to the style of a lab exercise/homework question.
 
-3. Then someone will fork the repo, write up their solution, with a bit of polish and documentation, submit a pull request. I'm going to write up a contributing guide soon. For now, the guideline is just: create a folder, say `007` with two subfolders `exercise` and `solution`. A `data` subfolder might be useful too. 
+3. Then someone will fork the repo, write up their solution, with a bit of polish and documentation, submit a pull request. The submission guideline (see [contributing.md](CONTRIBUTING.md) for more details) is roughly: create a folder, say `007` with two subfolders `exercise` and `solution`. A `data` subfolder might be useful too. 
 Then provide descriptions in `readme.md` in the subfolders. Finally, provide your favorite solutions in the `solution` folder, preferably in a notebook format
 
 4. Some of us will scrutinize the codes, review, make suggestions and eventually include (merge) them into the main project repo.
