@@ -21,8 +21,8 @@ The format is roughly the following:
 
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
-# Goal: 99 Projects  
-# Current: 4 Projects
+### Goal: 99 Projects  
+### Current: 4 Projects
 
 ## Table of Contents
 
