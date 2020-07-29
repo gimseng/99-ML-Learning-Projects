@@ -7,7 +7,7 @@
 
 # Data 
 
-The file `housing_prices.csv` (see [./housing_prices.csv](https://raw.githubusercontent.com/gimseng/99-ML-Learning-Projects/master/002/data/Housing_Prices.csv)).
+The file `housing_prices.csv` (see [./data/housing_prices.csv](https://raw.githubusercontent.com/gimseng/99-ML-Learning-Projects/master/002/data/Housing_Prices.csv)).
 
 # Task
 - Follow the Jupyter Notebook and complete the required tasks:
