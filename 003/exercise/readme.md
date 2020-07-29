@@ -10,3 +10,11 @@ In this competition, your goal is to correctly identify digits from a dataset of
 
 ## Acknowledgements 
 More details about the dataset, including algorithms that have been tried on it and their levels of success, can be found at http://yann.lecun.com/exdb/mnist/index.html. The dataset is made available under a Creative Commons Attribution-Share Alike 3.0 license.
+
+At the practical level, if you are familiar with 'keras', you can access the data using:
+
+```python
+from keras.datasets import mnist
+
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+```
