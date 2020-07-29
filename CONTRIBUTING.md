@@ -44,7 +44,7 @@ First, create the folder based on the next number of the project. For e.g., if y
     │   ├── readme.md            # A short description on the solutions and what each file does
     │   └── random_forest.ipynb  # Jupyter notebook solution
     └── data                     # data folder          
-        └── train.csv            # Some data
+        ├── train.csv            # Some data
         └── ...
 
 
