@@ -41,8 +41,8 @@ First, create the folder based on the next number of the project. For e.g., if y
     ├── exercise                 # Exercise folder
     │   └── readme.md            # A mark-down clear and expansive description of the exercise. Data, goals, methods to use and etc
     └── solution                 # Solution Folder
-        ├── readme.md            # A short description on the solutions and what each file does
-        └── random_forest.ipynb  # Jupyter notebook solution
+    │   ├── readme.md            # A short description on the solutions and what each file does
+    │   └── random_forest.ipynb  # Jupyter notebook solution
     └── data                     # data folder          
         └── train.csv            # Some data
         └── ...
