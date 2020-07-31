@@ -1,12 +1,13 @@
 # 99-ML-Learning-Projects
 A list of 99 machine learning projects for anyone interested to learn machine learning from coding and building projects.
 
-Our model is provide a curated repo for anyone to contribute a cool exercise and solution that is useful for anyone (including themselves) in their journey of learning machine learning.
+Our working philosophy is to provide a curated repo for anyone to contribute a cool/fun exercise and solution that is useful for anyone (including themselves) in their journey of learning machine learning.
 
 
 ## Getting Started
 
 The format is roughly the following:
+
 1. Propose an exercise by creating an issue ticket and write what you think is an useful coding exercise for certain concepts. 
 
 2. If enough people are interested in that issue ticket, hopefully either you or someone else will write the exercise statement properly similar to the style of a lab exercise/homework question.
