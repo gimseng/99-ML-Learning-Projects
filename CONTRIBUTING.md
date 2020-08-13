@@ -48,5 +48,5 @@ First, create the folder based on the next number of the project. For e.g., if y
         └── ...
 
 
-Please provide description/summary in the `readme.md` in each of the `exercise` and `solution` folder. If its appropriate, reference/credit the source. In the `data` folder, if relevant, provide a `readme.md` to describe the data and its source. 
+Please provide a description/summary in the `readme.md` in each of the `exercise` and `solution` folder. If its appropriate, reference/credit the source. In the `data` folder, if relevant, provide a `readme.md` to describe the data and its source. 
 
