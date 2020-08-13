@@ -37,6 +37,8 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 005. Sentiment analysis
 
+006. Bagging and boosting ensemble methods
+
 ## Dependencies
 
 Some of the libraries (and their versions) we are using:
