@@ -28,7 +28,9 @@ Most Machine learning projects usually follow a similar outline (a set of phases
     - Inspect the data
     - check for Null Values 
     - view statistical details using ``describe()``
-    - what can you infer from the statistical measures? like possible outliers? 
+
+    what can you infer from the statistical measures? like possible outliers? 
+    
 - Data Analysis and Visualization (this process is where you explore the data, clean it and infer some insights from it)
     
     - delete columns unuseful for prediction
