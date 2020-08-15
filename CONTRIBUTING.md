@@ -35,17 +35,18 @@ If you are not familir with git, we follow the general ["fork-and-pull"](https:/
 
 ## Structuring the execise or solution
 
-First, create the folder based on the next number of the project. For e.g., if you see `015` folder being the latest project folder, then create the `016` folder. Within that, the directory layout should be of the following format:
+First, create the folder based on the next number of the project. For e.g., if you saw `015` folder being the latest project folder, then create the `016` folder. Within that, the directory layout should be of the following format:
 
     .
     ├── exercise                 # Exercise folder
     │   └── readme.md            # A mark-down clear and expansive description of the exercise. Data, goals, methods to use and etc
-    └── solution                 # Solution Folder
-        ├── readme.md            # A short description on the solutions and what each file does
-        └── random_forest.ipynb  # Jupyter notebook solution
-        └── cnn.py               # A python .py solution        
-        └── train.csv            # Some data
+    ├── solution                 # Solution Folder
+    │   ├── readme.md            # A short description on the solutions and what each file does
+    │   └── random_forest.ipynb  # Jupyter notebook solution
+    └── data                     # Data folder          
+        ├── train.csv            # Some data
         └── ...
 
 
+Please provide a description/summary in the `readme.md` in each of the `exercise` and `solution` folders. If its appropriate, reference/credit sources. In the `data` folder, if relevant, provide a `readme.md` to describe the data and its source. 
 

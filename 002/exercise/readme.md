@@ -5,8 +5,13 @@
 - Learn how to evaluate models through a 'Loss function'
 - Learn how to optimize a model through Gradient Descent
 
+# Data 
+
+The file `housing_prices.csv` (see [./data/housing_prices.csv](https://raw.githubusercontent.com/gimseng/99-ML-Learning-Projects/master/002/data/housing_prices.csv)).
+
 # Task
 - Follow the Jupyter Notebook  and complete the required tasks:
+
 
 `Linear-regression.ipynb`
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/002/exercise/Linear-regression.ipynb)
@@ -19,3 +24,9 @@
 - [[Video] Linear Regression with multiple variables (Refer videos from 4.1 - 4.7)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [[Blog] Everything You Need To Know About Linear Regression](https://towardsdatascience.com/everything-you-need-to-know-about-linear-regression-b791e8f4bd7a)
 - [[Video] Linear Regression Python Sklearn [FROM SCRATCH]](https://www.youtube.com/watch?v=b0L47BeklTE)
+
+`linear_regression.ipynb`
+
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/002/exercise/linear_regression.ipynb)
+[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/002/exercise/linear_regression.ipynb)
+
