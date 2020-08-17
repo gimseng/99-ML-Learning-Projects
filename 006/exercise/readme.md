@@ -32,7 +32,8 @@ iii. Voting and averaging results is not a good practice.
 
 Hint: First create a classifier, say decision tree. Create a Balanced Bagging Classifier from imblearn.ensemble and pass the DT/RF to the bagging basis function. 
 
-## Boosting: Boosting is a general ensemble technique which refocuses on the poorly functioning basis function by keeping track of the net error on each trainers' each epoch. 
+## Boosting
+Boosting is a general ensemble technique which refocuses on the poorly functioning basis function by keeping track of the net error on each trainers' each epoch. 
 
 Pros:
 
