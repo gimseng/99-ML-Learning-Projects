@@ -1,6 +1,6 @@
 # My Solution
 
-Follow the following jupyter notebook:
+See the following jupyter notebook:
 
 `ensemble_techniques.ipynb`
 
