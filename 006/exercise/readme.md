@@ -13,9 +13,10 @@ A summary of each technique is provided at the end of this readme
 - Iterate through a pre-defined set of parameters and select the best configuration. 
 
 
-# Theory:
+# Summary of techniques/methods
 
-1. Bagging: Bagging is the process of creating sub-divisions of the dataset randomly and apply basis functions on them. The final result is obtained by aggregating the individual results. Both decision trees and random forests are easy basis functions as visual comprehension of dividing the data is feasible. 
+## Bagging
+Bagging is the process of creating sub-divisions of the dataset randomly and apply basis functions on them. The final result is obtained by aggregating the individual results. Both decision trees and random forests are easy basis functions as visual comprehension of dividing the data is feasible. 
 
 Pros:
 
@@ -31,24 +32,29 @@ iii. Voting and averaging results is not a good practice.
 
 Hint: First create a classifier, say decision tree. Create a Balanced Bagging Classifier from imblearn.ensemble and pass the DT/RF to the bagging basis function. 
 
-2. Boosting: Boosting is a general ensemble technique which refocuses on the poorly functioning basis function by keeping track of the net error on each trainers' each epoch. 
+## Boosting: Boosting is a general ensemble technique which refocuses on the poorly functioning basis function by keeping track of the net error on each trainers' each epoch. 
 
 Pros:
 
-i. Makes weak learners stronger (at least theoretically)
-ii. Removes bias and prevents underfitting. 
+* Makes weak learners stronger (at least theoretically)
+* Removes bias and prevents underfitting
 
 Cons:
 
-i. Computationally expensive.
-ii. Susceptible to overfitting. 
+* Computationally expensive
+* Susceptible to overfitting 
 
-2.1 AdaBoost: AdaBoost is a meta-heuristic responsible for taking multiple weak basis functions and aggregating them into a overall strong classifier. In this solution n_estimators specify the number of models being trained. The overall measure-of-goodness is a measure of minimizing the exponential loss function. It provides a high degree of precision and cascades weak learners optimally. However, the loss function is set. 
+### AdaBoost
+AdaBoost is a meta-heuristic responsible for taking multiple weak basis functions and aggregating them into a overall strong classifier. In this solution n_estimators specify the number of models being trained. The overall measure-of-goodness is a measure of minimizing the exponential loss function. It provides a high degree of precision and cascades weak learners optimally. However, the loss function is set. 
 
 Hint: Follow the same process as bagging, with the replacement of bagging classifier with adaboost. Don't worry about the accuracy levels for now. 
 
-2.2 Gradient boosting: This is a generalized form of AdaBoost which provides a set of loss function to chose from. The expanded choice of loss function provides a sort of feedback which makes every subsequent classifier spwaned better than it's predecessor. 
+### Gradient boosting
+This is a generalized form of AdaBoost which provides a set of loss function to chose from. The expanded choice of loss function provides a sort of feedback which makes every subsequent classifier spwaned better than it's predecessor. 
 
-2.3 XGBoost: It is similar to GradientBoosting, with the inclusion of Lasso and Ridge regularization techniques. This curbs any overfitting in GB. It offers parallelization,  distributed computing, cache optimization, and out-of-core computing.
+### XGBoost
+It is similar to GradientBoosting, with the inclusion of Lasso and Ridge regularization techniques. This curbs any overfitting in GB. It offers parallelization,  distributed computing, cache optimization, and out-of-core computing.
 
-3. Stacking: Stacking is an ensemble technique which aims to combine multiple base learners iteratively to create an optimal combination. Multiple base learners are trained on sets of training data and then tested on a held-out testing set. The main aim is to find the perfect combination. The only drawback would be the division of data really thins out the total amount of data. 
+
+## Stacking
+Stacking is an ensemble technique which aims to combine multiple base learners iteratively to create an optimal combination. Multiple base learners are trained on sets of training data and then tested on a held-out testing set. The main aim is to find the perfect combination. The only drawback would be the division of data really thins out the total amount of data. 
