@@ -1,6 +1,7 @@
 # My Solution
 
 Follow the following jupyter notebook:
+
 `ensemble_techniques.ipynb`
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/006/solution/ensemble_techniques.ipynb)
