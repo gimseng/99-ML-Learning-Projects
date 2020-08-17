@@ -10,7 +10,7 @@
 The file `housing_prices.csv` (see [./data/housing_prices.csv](https://raw.githubusercontent.com/gimseng/99-ML-Learning-Projects/master/002/data/housing_prices.csv)).
 
 # Task
-- Follow the Jupyter Notebook  and complete the required tasks:
+- Follow the Jupyter Notebook and complete the required tasks:
 
 
 `Linear-regression.ipynb`
@@ -29,4 +29,3 @@ The file `housing_prices.csv` (see [./data/housing_prices.csv](https://raw.githu
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/002/exercise/linear_regression.ipynb)
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/002/exercise/linear_regression.ipynb)
-
