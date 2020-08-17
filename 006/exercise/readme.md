@@ -20,15 +20,15 @@ Bagging is the process of creating sub-divisions of the dataset randomly and app
 
 Pros:
 
-i. Prevents overfitting and decreases varience. 
-ii. Easy to set up.
-iii. Better results than any consitituent predictor.
+* Prevents overfitting and decreases varience
+* Easy to set up
+* Better results than any consitituent predictor
 
 Cons:
 
-i. Doesn't reduce varience.
-ii. Computationally complex.
-iii. Voting and averaging results is not a good practice. 
+* Doesn't reduce varience
+* Computationally complex
+* Voting and averaging results is not a good practice
 
 Hint: First create a classifier, say decision tree. Create a Balanced Bagging Classifier from imblearn.ensemble and pass the DT/RF to the bagging basis function. 
 
