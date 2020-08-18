@@ -2,7 +2,7 @@
 
 The data description is provided in [./data/readme.md](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/006/data/readme.md). This is a classification of tumorous data task. Classify each patient's tumor as either malignant or benign. 
 The aim of this exercise is to learn how to create ensemble techniques and compare them. 
-A summary of each technique is provided at the end of this readme
+A summary of each technique is provided at the end of this readme.
 
 
 # Exercise goals
@@ -59,3 +59,7 @@ It is similar to GradientBoosting, with the inclusion of Lasso and Ridge regular
 
 ## Stacking
 Stacking is an ensemble technique which aims to combine multiple base learners iteratively to create an optimal combination. Multiple base learners are trained on sets of training data and then tested on a held-out testing set. The main aim is to find the perfect combination. The only drawback would be the division of data really thins out the total amount of data. 
+
+## Ploting decision boundaries
+As an added exercise try plotting the decision boundary for a classifier. The decision boundary for this particular dataset might not be very encouraging, but don't lose heart. As a tutorial, the standard data set of make_moons from sklearn.datasets has been plotted for AdaBoost in the solutions sections. Try doing it for the other classifiers. 
+
