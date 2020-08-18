@@ -24,4 +24,4 @@ This exercise goes from basic methods to advanced ones, so there are no hard req
 
 # Data source/summary:
 
-Data has been taken from jmcauley.uscd.edu/data/amazon
+Data has been taken from [jmcauley.ucsd.edu/data/amazon](http://jmcauley.ucsd.edu/data/amazon/)
