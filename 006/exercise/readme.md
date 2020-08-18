@@ -1,6 +1,6 @@
 # Problem Statement
 
-The data description is provided in [/data/readme.md](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/006/data/readme.md). This is a classification of tumorous data task. Classify each patient's tumor as either malignant or benign. 
+The data description is provided in [./data/readme.md](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/006/data/readme.md). This is a classification of tumorous data task. Classify each patient's tumor as either malignant or benign. 
 The aim of this exercise is to learn how to create ensemble techniques and compare them. 
 A summary of each technique is provided at the end of this readme
 
