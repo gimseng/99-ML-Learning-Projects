@@ -2,8 +2,10 @@
 
 In this exercise, one would be able to know how to analyse sentiments of text data using various conventional and advanced algorithms along with textual data processing techniques, such as:
 
-* Logistic regression for sentiment analysis
-* Naive bayes for sentiment analysis
+* Linear SVM
+* Decision tree
+* Naive bayes 
+* Logistic regression 
 
 # Prerequisites
 
