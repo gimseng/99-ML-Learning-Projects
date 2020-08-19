@@ -1,6 +1,7 @@
 # My Solution
 
 In this folder, you will find the following jupyter notebook using a simple LSTM neural network for text generation: 
+
 `text_generation_model.ipynb`
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/004/solution/text_generation_model.ipynb)
