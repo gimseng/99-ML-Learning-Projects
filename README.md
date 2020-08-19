@@ -35,7 +35,7 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 004. [Text-generation neural network model (with LSTM)](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise)
 
-005. Sentiment analysis
+005. [Sentiment analysis](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise)
 
 006. [Bagging and boosting ensemble methods](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
 
