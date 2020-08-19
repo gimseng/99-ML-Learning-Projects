@@ -14,7 +14,7 @@ Our goals are to learn:
 
 In this exercise, one would be able to know how to analyse sentiments of text data using various conventional and advanced algorithms along with textual data processing techniques, such as:
 
-* Logistic reegression for sentiment analysis
+* Logistic regression for sentiment analysis
 * Naive bayes for sentiment analysis
 * Word2vec algorithms
 
