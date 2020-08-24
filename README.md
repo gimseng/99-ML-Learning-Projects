@@ -23,7 +23,7 @@ The format is roughly the following:
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 ### Goal: 99 Projects  
-### Current: 4 Projects
+### Current: 6 Projects
 
 ## Table of Contents
 
@@ -38,6 +38,8 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 005. [Sentiment analysis](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise)
 
 006. [Bagging and boosting ensemble methods](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
+
+007. CIFAR10 Multiclass Object Recognition
 
 ## Dependencies
 
