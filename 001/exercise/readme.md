@@ -20,7 +20,44 @@ The `test.csv` dataset contains similar information but does not disclose the â€
 
 Using the patterns you find in the `train.csv` data, predict whether the other 418 passengers on board (found in `test.csv`) survived.
 
+# Tasks
+
+Most Machine learning projects usually follow a similar outline (a set of phases) which are listed below to help you get started.
+
+- Inspecting Data (this process is where you familiarize yourself with the data)
+    - Inspect the data
+    - Check for null/missing values 
+    - View statistical details using ``describe()``
+
+    What can you infer from the statistical measures? Like possible outliers? 
+    
+- Data Analysis and Visualization (this process is where you explore the data, clean it and infer some insights from it)
+    
+    - Delete columns irrelevant or not useful for prediction
+    - Get the average rate of survival by Gender, Pclass
+    - Plotting the number of people who survived and who didn't survive
+    - Plot the precenrage of survival by gender
+    - Handle null/missing values 
+    - Plot the survival rate by Age
+    - Handle categorical text values and turn them into numerical
+    - Plot the correlation between features and label
+
+    What do you infer from the data? What can you conclude from it? Who is most likely to survive, based on the data?
+
+- Model Building and Evaluation (this process is where you start building models and choose a model based on accuracy metrics)
+    - Choose a model suitable for classification
+    - Fit the training data
+    - Use cross-validation to get the average accuracy for model selection or accuracy benchmark
+    - Find out how accurate the model performs on test data using some metrics
+    - **Bonus**: Try other classification algorithms and compare the accuracy metrics (and/or F1 score) by presenting them in a readable, easy to compare format
+        - Choose the model with the best accuracy metric
+
+- Hint: To get you started, we have written a minimal template-like notebook:
+
+    `starter-notebook.ipynb`
+
+    [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/001/exercise/starter-notebook.ipynb)
+    [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/001/exercise/starter-notebook.ipynb)
 
 
-
-Source: https://www.kaggle.com/c/titanic
+Project and Data Source: https://www.kaggle.com/c/titanic
