@@ -18,7 +18,7 @@ The file `./data/train.csv` will contain the details of a subset of the passenge
 
 The `./data/test.csv` dataset contains similar information but does not disclose the “ground truth” for each passenger. It’s your job to predict these outcomes.
 
-Using the patterns you find in the `train.csv` data, predict whether the other 418 passengers on board (found in `./data/test.csv`) survived.
+Using the patterns you find in the `./data/train.csv` data, predict whether the other 418 passengers on board (found in `./data/test.csv`) survived.
 
 # Tasks
 
