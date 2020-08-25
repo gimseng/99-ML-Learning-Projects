@@ -26,7 +26,7 @@ Most Machine learning projects usually follow a similar outline (a set of phases
 
 - Inspecting Data (this process is where you familiarize yourself with the data)
     - Inspect the data
-    - Check for Null Values 
+    - Check for null/missing values 
     - View statistical details using ``describe()``
 
     What can you infer from the statistical measures? Like possible outliers? 
@@ -46,8 +46,8 @@ Most Machine learning projects usually follow a similar outline (a set of phases
 
 - Model Building and Evaluation (this process is where you start building models and choose a model based on accuracy metrics)
     - Choose a model suitable for classification
-    - Fit the training (and possible validation) data
-    - Use cross-validation to get the average accuracy for model selections or accuracy benchmark
+    - Fit the training data
+    - Use cross-validation to get the average accuracy for model selection or accuracy benchmark
     - Find out how "well" the model performs on test data using some metrics
     - **Bonus**: Try other classification algorithms and compare the accuracy metrics by presenting them in a readable, easy to compare format
         - Choose the model with the best accuracy metric
