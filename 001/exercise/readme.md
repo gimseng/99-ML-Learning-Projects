@@ -24,32 +24,32 @@ Using the patterns you find in the `train.csv` data, predict whether the other 4
 
 Most Machine learning projects usually follow a similar outline (a set of phases) which are listed below to help you get started.
 
-- Inspecting the data (this process is where you familiarize yourself with the data)
+- Inspecting Data (this process is where you familiarize yourself with the data)
     - Inspect the data
-    - check for Null Values 
-    - view statistical details using ``describe()``
+    - Check for Null Values 
+    - View statistical details using ``describe()``
 
-    what can you infer from the statistical measures? like possible outliers? 
+    What can you infer from the statistical measures? Like possible outliers? 
     
 - Data Analysis and Visualization (this process is where you explore the data, clean it and infer some insights from it)
     
-    - delete columns unuseful for prediction
+    - Delete columns unuseful for prediction
     - Get the average rate of survival by Gender, Pclass
     - Plotting the number of people who survived and who didn't survive
-    - plot the precenrage of survival by gender
-    - Handle Null Values 
-    - plot the survival rate by Age
-    - handle categorical text values and turn them into numerical
-    - plot the correlation between features and label
+    - Plot the precenrage of survival by gender
+    - Handle null/missing values 
+    - Plot the survival rate by Age
+    - Handle categorical text values and turn them into numerical
+    - Plot the correlation between features and label
 
-    What do you infer from the data? What can you conclude from it? who is most likely to survive, based on the data?
+    What do you infer from the data? What can you conclude from it? Who is most likely to survive, based on the data?
 
-- Building the model and testing the accuracy (this process is where you start building models and choose a model based on accuracy metrics)
-    - choose a model suitable for classification
-    - fit the data
-    - find out how "well" the model performs using some metrics
-    - use cross validation to get the avg accuracy
-    - **bonus** try other classification algorithms and compare the accuracy metrics by presenting them in a readable, easy to compare format
+- Model Building and Evaluation (this process is where you start building models and choose a model based on accuracy metrics)
+    - Choose a model suitable for classification
+    - Fit the training (and possible validation) data
+    - Use cross-validation to get the average accuracy for model selections or accuracy benchmark
+    - Find out how "well" the model performs on test data using some metrics
+    - **Bonus** Try other classification algorithms and compare the accuracy metrics by presenting them in a readable, easy to compare format
         - choose a model with the best accuracy metric
 
 
