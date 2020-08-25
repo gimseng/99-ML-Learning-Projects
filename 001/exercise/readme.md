@@ -33,7 +33,7 @@ Most Machine learning projects usually follow a similar outline (a set of phases
     
 - Data Analysis and Visualization (this process is where you explore the data, clean it and infer some insights from it)
     
-    - Delete columns unuseful for prediction
+    - Delete columns irrelevant or not useful for prediction
     - Get the average rate of survival by Gender, Pclass
     - Plotting the number of people who survived and who didn't survive
     - Plot the precenrage of survival by gender
