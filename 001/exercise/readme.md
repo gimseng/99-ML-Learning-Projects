@@ -49,7 +49,7 @@ Most Machine learning projects usually follow a similar outline (a set of phases
     - Fit the training (and possible validation) data
     - Use cross-validation to get the average accuracy for model selections or accuracy benchmark
     - Find out how "well" the model performs on test data using some metrics
-    - **Bonus** Try other classification algorithms and compare the accuracy metrics by presenting them in a readable, easy to compare format
+    - **Bonus**: Try other classification algorithms and compare the accuracy metrics by presenting them in a readable, easy to compare format
         - choose a model with the best accuracy metric
 
 
