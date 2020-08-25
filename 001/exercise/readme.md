@@ -60,4 +60,4 @@ Most Machine learning projects usually follow a similar outline (a set of phases
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/001/exercise/starter-notebook.ipynb)
 
 
-Source: https://www.kaggle.com/c/titanic
+Project and Data Source: https://www.kaggle.com/c/titanic
