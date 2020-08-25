@@ -52,5 +52,12 @@ Most Machine learning projects usually follow a similar outline (a set of phases
     - **Bonus**: Try other classification algorithms and compare the accuracy metrics (and/or F1 score) by presenting them in a readable, easy to compare format
         - Choose the model with the best accuracy metric
 
+- Hint: To get you started, we have written a minimal template-like notebook:
+
+`starter-notebook.ipynb`
+
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/001/exercise/starter-notebook.ipynb)
+[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/001/exercise/starter-notebook.ipynb)
+
 
 Source: https://www.kaggle.com/c/titanic
