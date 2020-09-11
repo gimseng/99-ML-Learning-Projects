@@ -26,21 +26,25 @@ If you are not familir with git, we follow the general ["fork-and-pull"](https:/
 2. Clone the project to your machine. Add upstream to the original repo.
 
 - `git clone https://github.com/your_username/99-ML-Learning-Projects.git`
-- `git remote add upstream https://github.com/gimseng/99-ML-Learning-Projects.git` so now `upstream` refers to the original repo and `origin` refers to the fork created
+- `git remote add upstream https://github.com/gimseng/99-ML-Learning-Projects.git` so now `upstream` refers to the original repo and `origin` refers to the remote fork created.
 
 3. Create a branch locally with a succinct but descriptive name (something like `dev-fix-something`). It is best practice not to work with the master branch.
-   - `git branch dev-fix-something` this creates a new branch
-   - `git checkout dev-fix-something` this lets us switch to the new branch
+   - `git branch dev-fix-something` this creates a new branch where your changes will be present in.
+   - `git checkout dev-fix-something` this lets us switch to the new branch created
 4. Commit changes to the branch. Commit small changes often and commit frequently with succint and clear messages.
    - make sure you are in the branch specific to the changes you want to commit
    - `git commit change-you-made`
 5. Following any formatting and testing guidelines specific to this repo.
 6. Push changes to your fork. Keep your fork's main development branch updated with upstream's. If there are conflicts, resolve within your own forked version.
-   - `git push origin dev-fix-something` here we push changes to the branch we created in our fork
+   - `git push origin dev-fix-something` here we push our branch that has our changes to the remote fork.
    - Now we need to make sure the fork's main development branch is updated with upstream's
      - `git checkout master` to change back to the master branch
-     - `git pull upstream master` to pull any changes from upstream to our fork
+     - `git fetch upstream master` to get any changes from upstream to our local fork
+     - `git merge upstream/master` to merge changes from upstream to our fork
+     - `git push origin` to push the changes to our remote fork
 7. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
+   ![Imgur](https://i.imgur.com/Lrv6oOV.png)
+   After pushing changes to the fork created, a button will appear which will allow for creating a pull request requesting changes made in the branch to be merged with the original repo
 8. After reviewers approve the PR, your branch (and changes) will be merged to the master branch.
 9. (Optionally) Delete your branch.
 
