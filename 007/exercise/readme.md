@@ -15,6 +15,11 @@ The breast_cancer dataset is in sklearn library and you have to use  ***from skl
 
 Basic sklearn functions for train-test split, metrics and DecisionTreeClassifier
 
+
+___
+___
+
+
 # Exercise 2
 This exercise is much more demanding than the first. You have to work with a dataset that includes both categorical and numerical attributes. There are also some missing values. So you have to build a pipeline from scratch.
 * Load the income.csv file and train a DecisionTree model that will predict the income variable.
