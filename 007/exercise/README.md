@@ -18,4 +18,4 @@ Basic steps of the Neural Style Transfer are:
 ```
 Style_Transfer_Exercise.ipynb
 ```
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1iMKmCmB3j8TdudJeQNaa9smGr--Fq7ip?usp=sharing/]
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/007/exercise/style_transfer_exercise.ipynb)
