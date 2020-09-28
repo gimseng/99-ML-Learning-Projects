@@ -39,7 +39,7 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 006. [Bagging and boosting ensemble methods](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
 
-007. CIFAR10 Multiclass Object Recognition
+007. [Automated Social Distancing Detector](https://github.com/AzharMithani/Automated-Social-Distance-Detector)
 
 ## Dependencies
 
@@ -62,7 +62,9 @@ If you want to get in touch with us, say hi on our discord/gitter chatroom:
 - Gitter: https://gitter.im/99-ML-Learning-Projects/community
 
 ## Recent Contributors
-[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/0)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/0)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/1)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/1)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/2)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/2)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/3)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/3)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/4)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/4)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/5)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/5)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/6)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/6)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/7)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/7)
+[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/0)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/0)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/1)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/1)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/2)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/2)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/3)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/3)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/4)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/4)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/5)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/5)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/6)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/6)[![](https://avatars0.githubusercontent.com/u/25031629?s=460&u=f441542b8c7c6ce5c0c2da8f06d125beb8e35ebc&v=4)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/7)[![](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/images/7)](https://sourcerer.io/fame/gimseng/gimseng/99-ML-Learning-Projects/links/7)
+
+
 
 ## Credit:
 
