@@ -37,6 +37,8 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 #### Computer Vision
 - [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
 
+- [Fashion MNIST Convolutional Neural Network [Intermediate]]()
+
 
 #### Natural Language Processing
 
