@@ -28,21 +28,29 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 ## Table of Contents
 #### General-Purpose Machine Learning
 
-001. [Linear Regression [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
+001: [Titanic Survival Prediction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise) 
 
-002. [Titanic Survival Prediction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise) 
+002: [Linear Regression [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
 
-003. [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
+006: [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
 
 #### Computer Vision
-001. [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
+
+003: [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
+
 #### Natural Language Processing
-001. [Sentiment analysis [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise) 
-002. [Text-generation neural network model (with LSTM) [Advanced]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise) 
+
+005: [Sentiment analysis [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise) 
+
+004: [Text-generation neural network model (with LSTM) [Advanced]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise) 
+
 #### Data Analysis / Data Visualization
+
 #### Reinforcement Learning
+
 #### Misc
-007: Employee Attrition & Performance
+
+007:[Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007/exercise) 
 
 
 
