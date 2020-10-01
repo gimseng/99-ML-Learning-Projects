@@ -4,5 +4,5 @@ Tip: Use Classification models for this dataset, and use .predict_proba() to get
 1.Logistic Regression
 (short description of your model with file name)
 
-2. Random Forest Classifier
+2.Random Forest Classifier
 (short description of your model with file name)
