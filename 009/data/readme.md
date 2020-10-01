@@ -1,6 +1,12 @@
-Credits: Modified Dataset provided in an Incourse Competition organized by Summer Analytics club of IIT Guwahati (Original dataset was provided by IBM) 
+
+Uncover the factors that lead to employee attrition and explore important questions such as 
+‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. 
+This is a fictional data set created by IBM data scientists.
+
+
+Credits: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 ### Data Fields
-- Id - an anonymous id given to an Employee
 
 - Age - Age of an Employee
 
@@ -99,3 +105,17 @@ Credits: Modified Dataset provided in an Incourse Competition organized by Summe
   - 'Less Stocks'
   - 'Moderate Stocks'
   - 'A lot of Stocks'
+- RelationshipSatisfaction
+ 
+ - 'Low'
+ - 'Medium'
+ - 'High'
+ - 'Very High'
+
+- WorkLifeBalance
+
+ - 'Bad'
+ - 'Good'
+ - 'Better'
+ - 'Best'
+
