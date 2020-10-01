@@ -50,7 +50,7 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 #### Misc
 
-007:[Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007/exercise) 
+007: [Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007/exercise) 
 
 
 
