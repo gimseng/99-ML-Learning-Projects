@@ -7,7 +7,8 @@ A few example solutions:
 4) Decision Tree
 5) K-Means
 6) Gradient Boosting (XGBoost, CatBoost)
-7) Other
+7) Neural networks 
+8) Other
 
 ## Suggestions/guides:
 
