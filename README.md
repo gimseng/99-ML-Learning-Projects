@@ -39,7 +39,6 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 006. [Bagging and boosting ensemble methods](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
 
-007. CIFAR10 Multiclass Object Recognition
 
 ## Dependencies
 
