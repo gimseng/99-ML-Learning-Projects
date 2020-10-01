@@ -5,5 +5,6 @@ Solutions needed for
 3) SVM Classifier
 
 Suggested  train/test split ratio is 80/20. But feel free to tweak around it.
+Tip: Use Classification models for this dataset, and use .predict_proba() to get the answer in the range 0 to 1
 
  
