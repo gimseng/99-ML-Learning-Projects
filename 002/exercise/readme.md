@@ -9,7 +9,7 @@
 
 The file `housing_prices.csv` (see [./data/housing_prices.csv](https://raw.githubusercontent.com/gimseng/99-ML-Learning-Projects/master/002/data/housing_prices.csv)).
 
-Data source/credit: [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+Data source/credit: [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
 # Task
 - Follow the Jupyter Notebook and complete the required tasks:
