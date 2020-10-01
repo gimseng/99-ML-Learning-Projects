@@ -18,7 +18,7 @@ We will have a model performance comparison table, so it is best to standardise 
 
 - Please provide the full confusion marix and/of F1 score.
 
-- Feel free to tune and work on as many models as you want offline. When submitting PR, please check in the issue ticket (#99)[https://github.com/gimseng/99-ML-Learning-Projects/issues/98] to see if the models have been submitted before. If you feel that you substantially improve the same model, feel free to discuss in the issue ticket and we should either modify the submitted model or replaced it.
+- Feel free to tune and work on as many models as you want offline. When submitting PR, please check in the issue ticket [#99](https://github.com/gimseng/99-ML-Learning-Projects/issues/98) to see if the models have been submitted before. If you feel that you substantially improve the same model, feel free to discuss in the issue ticket and we should either modify the submitted model or replaced it.
 
 
  
