@@ -1,5 +1,6 @@
-Implement different Data-Preprocessing techniques, Feature Extraction techniques and different Algorithms 
-Solutions needed for
+Implement different data-preprocessing techniques, feature extraction techniques and machine learning models. This is a supervised classification problem.
+
+A few example solutions:
 1) Logistic Regression
 2) Random Forest Classifier
 3) SVM Classifier
@@ -7,10 +8,16 @@ Solutions needed for
 5) K-Means
 6) Gradient Boosting (XGBoost, CatBoost)
 7) Other
-### Suggestions
-train/test split ratio is 80/20. But feel free to tweak around it.
-Tip: Use Classification models for this dataset, and use .predict_proba() to get the answer in the range 0 to 1
 
-### Note- You can make as many models as you want but only make a PR for any 1-2 of your best models
+## Suggestions/guides:
+
+We will have a model performance comparison table, so it is best to standardise metric/measures as well as some performance measurement practices. 
+
+- Please use train/test split ratio of 80/20. Random seeds could be anything, they should not matter.
+
+- Please provide the full confusion marix and/of F1 score.
+
+- Feel free to tune and work on as many models as you want offline. When submitting PR, please check in the issue ticket (#99)[https://github.com/gimseng/99-ML-Learning-Projects/issues/98] to see if the models have been submitted before. If you feel that you substantially improve the same model, feel free to discuss in the issue ticket and we should either modify the submitted model or replaced it.
+
 
  
