@@ -1,8 +1,15 @@
-### Solutions
-Inital Format: [Model Name: Description,Techniques used, Model Accuracy]
+## Solutions
+### Inital Format: 
 
-1.Logistic Regression
-(short description of your model with file name)
+Model Name and File Name: [E.g. Random Forest Classifier, RFR_clf.nb]
 
-2.Random Forest Classifier
-(short description of your model with file name)
+Description: [E.g. a random forest classifier from scikit-learn]
+
+Further details: 
+[E.g. I did a 3-fold cv-grid search to find the best number of depth hyperparameter of RFR_clf] 
+
+Model Accuracy:
+- Confusion matrix: [...]
+- F1 score: [...]
+
+
