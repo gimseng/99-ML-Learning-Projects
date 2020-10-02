@@ -66,6 +66,34 @@ We only use the **Balanced** dataset in this project for beginner.
 
 <div style="page-break-after: always"></div>
 
+# Dataset
+If token is not manually uploaded in the first place (in Colab notebook):
+- Upload your kaggle.json file to `./content`.
+```python
+from google.colab import files
+files.upload() #upload kaggle.json
+```
+In case you are using your local device:
+
+- Install [Kaggle](https://github.com/Kaggle/kaggle-api), auth, then download dataset.
+```bash
+# Install Kaggle from PyPI
+!pip install -q kaggle
+```
+
+Then 
+```bash
+# Kaggle: auth
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!ls ~/.kaggle
+!chmod 600 /root/.kaggle/kaggle.json
+ 
+# Download and unpack dataset
+!kaggle datasets download -d crawford/emnist
+!unzip emnist.zip
+```
+
 # Practice Skills
 1. Using Colab/Kaggle API to handle problem.
 2. Computer vision fundamentals including simple deep neural networks.
@@ -73,3 +101,4 @@ We only use the **Balanced** dataset in this project for beginner.
 
 # Acknowledgements
 - EMNIST: Paper ([`arXiv:1702.05373`](https://arxiv.org/abs/1702.05373)) and Kaggle dataset ([`crawford/emnist`](https://www.kaggle.com/crawford/emnist))
+
