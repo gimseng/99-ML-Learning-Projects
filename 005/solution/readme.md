@@ -1,4 +1,5 @@
 # My Solution
+#It will be really helpful if you add naive based classifier.
 
 In this folder, you will find the following jupyter notebook using 
 a variety of classification methods, including linear SVM, decision tree, naive Bayes and logistic regression: 
