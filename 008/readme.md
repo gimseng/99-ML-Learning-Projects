@@ -43,3 +43,6 @@ To learn more about convolutions and how they work, check out this [playlist](ht
 > Once you are done with your attempt of trying out the project, you can check the solution over [here](solution.ipynb).
 
 
+## Credits
+Material used in this project is from [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome) from Coursera and hold all the rights for the same. This project is for educational purposes only.
+
