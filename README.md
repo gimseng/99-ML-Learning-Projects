@@ -23,7 +23,7 @@ The format is roughly the following:
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 ### Goal: 99 Projects  
-### Current: 7 Projects
+### Current: 8 Projects
 
 ## Table of Contents
 #### General-Purpose Machine Learning
@@ -51,7 +51,7 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 #### Bayesian 
 
-- [Naive Bayes Classification](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/naive-bayes/solution/NaiveBayes%20Solution.ipynb)
+- [Naive Bayes Classification](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/008/exercise/NaiveBayes%20%20-%20exercise%20starter.ipynb)
 
 #### Misc/Mix Models
 
