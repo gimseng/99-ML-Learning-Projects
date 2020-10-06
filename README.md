@@ -54,8 +54,8 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 ## Refreshers/Cheatsheets
 
-- [Numpy](https://github.com/Dhruv-VINT/99-ML-Learning-Projects/blob/master/Resources/Numpy/NumPy%20Tutorial.ipynb)
-- [Pandas](https://raw.githubusercontent.com/Dhruv-VINT/99-ML-Learning-Projects/master/Resources/Pandas/Pandas%20Tutorial.ipynb)
+- [Numpy](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/Resources/Numpy/NumPy%20Tutorial.ipynb)
+- [Pandas](https://github.com/gimseng/99-ML-Learning-Projects/master/Resources/Pandas/Pandas%20Tutorial.ipynb)
 
 
 
