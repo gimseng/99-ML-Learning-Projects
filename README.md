@@ -23,23 +23,37 @@ The format is roughly the following:
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 ### Goal: 99 Projects  
-### Current: 6 Projects
+### Current: 7 Projects
 
 ## Table of Contents
+#### General-Purpose Machine Learning
 
-001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
+- [Linear Regression [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
 
-002. [Linear Regression](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
+- [Titanic Survival Prediction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise) 
 
-003. [MNIST Handwriting Digit Recognition](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise)
+- [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
 
-004. [Text-generation neural network model (with LSTM)](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise)
+#### Computer Vision
+- [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
 
-005. [Sentiment analysis](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise)
 
-006. [Bagging and boosting ensemble methods](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
+#### Natural Language Processing
 
-007. CIFAR10 Multiclass Object Recognition
+- [Sentiment analysis [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise) 
+
+- [Text-generation neural network model (with LSTM) [Advanced]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise) 
+
+#### Data Analysis / Data Visualization
+
+#### Reinforcement Learning
+
+#### Misc/Mix Models
+
+- [Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007/exercise) 
+
+
+
 
 ## Dependencies
 
