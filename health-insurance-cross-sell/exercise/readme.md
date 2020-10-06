@@ -1,5 +1,5 @@
 ### Problem Statement
-Cross-sell Prediction Predict Health Insurance Owners' who will be interested in Vehicle Insurance
+Cross-sell Prediction Predict Health Insurance Owners' who will be interested in Vehicle Insurance.The main idea is to find if a person is interested to get vehicular insurance or not.
 
 ### Task Details
 Your client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
