@@ -32,7 +32,7 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 - [Titanic Survival Prediction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise) 
 
-- [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
+- [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise)
 
 #### Computer Vision
 - [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
@@ -51,11 +51,11 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 #### Bayesian 
 
-- [Naive Bayes Classification](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/008/exercise/NaiveBayes%20%20-%20exercise%20starter.ipynb)
+- [Naive Bayes Classification](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/008/exercise)
 
 #### Misc/Mix Models
 
-- [Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007/exercise) 
+- [Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007) 
 
 ## Refreshers/Cheatsheets
 
