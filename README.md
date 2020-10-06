@@ -44,9 +44,14 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 - [Text-generation neural network model (with LSTM) [Advanced]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise) 
 
+<!---
 #### Data Analysis / Data Visualization
-
 #### Reinforcement Learning
+-->
+
+#### Bayesian 
+
+- [Naive Bayes Classification](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/naive-bayes/solution/NaiveBayes%20Solution.ipynb)
 
 #### Misc/Mix Models
 
