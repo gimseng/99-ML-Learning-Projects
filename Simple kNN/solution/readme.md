@@ -1,0 +1,1 @@
+Basic implementation of k-NN from scratch is provided for reference in the file knn_from_scratch.ipynb.
