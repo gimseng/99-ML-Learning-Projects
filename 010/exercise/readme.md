@@ -38,8 +38,8 @@ Here is a template notebook to get you started:
 
 `knn_starter_exercise.ipynb`
 
-[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/010/exercise/knn_starter_exercise.ipynb)
-[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://github.com/gimseng/99-ML-Learning-Projects/blob/master/010/exercise/knn_starter_exercise.ipynb)
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gimseng/99-ML-Learning-Projects/blob/master/010/exercise/knn_starter_exercise.ipynb)
+[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://colab.research.google.com/gimseng/99-ML-Learning-Projects/blob/master/010/exercise/knn_starter_exercise.ipynb)
 
 
 ### References
