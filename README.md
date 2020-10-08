@@ -23,7 +23,7 @@ The format is roughly the following:
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 ### Goal: 99 Projects  
-### Current: 8 Projects
+### Current: 10 Projects
 
 ## Table of Contents
 #### General-Purpose Machine Learning
