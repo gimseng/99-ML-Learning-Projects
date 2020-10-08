@@ -32,7 +32,10 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 - [Titanic Survival Prediction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise) 
 
-- [kNN [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/009/exercise)
+- [kNN from Scratch [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/009/exercise)
+
+- [kNN from Sklearn [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/010/exercise)
+
 
 - [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise)
 
