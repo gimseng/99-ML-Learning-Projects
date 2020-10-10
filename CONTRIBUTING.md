@@ -50,7 +50,7 @@ If you are not familir with git, we follow the general ["fork-and-pull"](https:/
 
 ## Structuring the execise or solution
 
-First, create the folder based on the next number of the project. For e.g., if you saw `015` folder being the latest project folder, then create the `016` folder. Within that, the directory layout should be of the following format:
+First, create the folder using a placeholder name, roughly related to the model/project goal/data. For e.g., if you are working on linear regression, you could create the folder `linear regression`. Within that, the directory layout should be of the following format:
 
     .
     ├── exercise                 # Exercise folder
@@ -63,3 +63,5 @@ First, create the folder based on the next number of the project. For e.g., if y
         └── ...
 
 Please provide a description/summary in the `readme.md` in each of the `exercise` and `solution` folders. If its appropriate, reference/credit sources. In the `data` folder, if relevant, provide a `readme.md` to describe the data and its source.
+
+When we eventually merge, the root folder name of your project will be renamed numerically by chronological order.

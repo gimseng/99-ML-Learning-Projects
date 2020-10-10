@@ -1,0 +1,801 @@
+#	Name	Type 1	Type 2	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed	Generation	Legendary
+1	Bulbasaur	Grass	Poison	45	49	49	65	65	45	1	FALSE
+2	Ivysaur	Grass	Poison	60	62	63	80	80	60	1	FALSE
+3	Venusaur	Grass	Poison	80	82	83	100	100	80	1	FALSE
+3	VenusaurMega Venusaur	Grass	Poison	80	100	123	122	120	80	1	FALSE
+4	Charmander	Fire		39	52	43	60	50	65	1	FALSE
+5	Charmeleon	Fire		58	64	58	80	65	80	1	FALSE
+6	Charizard	Fire	Flying	78	84	78	109	85	100	1	FALSE
+6	CharizardMega Charizard X	Fire	Dragon	78	130	111	130	85	100	1	FALSE
+6	CharizardMega Charizard Y	Fire	Flying	78	104	78	159	115	100	1	FALSE
+7	Squirtle	Water		44	48	65	50	64	43	1	FALSE
+8	Wartortle	Water		59	63	80	65	80	58	1	FALSE
+9	Blastoise	Water		79	83	100	85	105	78	1	FALSE
+9	BlastoiseMega Blastoise	Water		79	103	120	135	115	78	1	FALSE
+10	Caterpie	Bug		45	30	35	20	20	45	1	FALSE
+11	Metapod	Bug		50	20	55	25	25	30	1	FALSE
+12	Butterfree	Bug	Flying	60	45	50	90	80	70	1	FALSE
+13	Weedle	Bug	Poison	40	35	30	20	20	50	1	FALSE
+14	Kakuna	Bug	Poison	45	25	50	25	25	35	1	FALSE
+15	Beedrill	Bug	Poison	65	90	40	45	80	75	1	FALSE
+15	BeedrillMega Beedrill	Bug	Poison	65	150	40	15	80	145	1	FALSE
+16	Pidgey	Normal	Flying	40	45	40	35	35	56	1	FALSE
+17	Pidgeotto	Normal	Flying	63	60	55	50	50	71	1	FALSE
+18	Pidgeot	Normal	Flying	83	80	75	70	70	101	1	FALSE
+18	PidgeotMega Pidgeot	Normal	Flying	83	80	80	135	80	121	1	FALSE
+19	Rattata	Normal		30	56	35	25	35	72	1	FALSE
+20	Raticate	Normal		55	81	60	50	70	97	1	FALSE
+21	Spearow	Normal	Flying	40	60	30	31	31	70	1	FALSE
+22	Fearow	Normal	Flying	65	90	65	61	61	100	1	FALSE
+23	Ekans	Poison		35	60	44	40	54	55	1	FALSE
+24	Arbok	Poison		60	85	69	65	79	80	1	FALSE
+25	Pikachu	Electric		35	55	40	50	50	90	1	FALSE
+26	Raichu	Electric		60	90	55	90	80	110	1	FALSE
+27	Sandshrew	Ground		50	75	85	20	30	40	1	FALSE
+28	Sandslash	Ground		75	100	110	45	55	65	1	FALSE
+29	Nidoran (Female)	Poison		55	47	52	40	40	41	1	FALSE
+30	Nidorina	Poison		70	62	67	55	55	56	1	FALSE
+31	Nidoqueen	Poison	Ground	90	92	87	75	85	76	1	FALSE
+32	Nidoran (Male)	Poison		46	57	40	40	40	50	1	FALSE
+33	Nidorino	Poison		61	72	57	55	55	65	1	FALSE
+34	Nidoking	Poison	Ground	81	102	77	85	75	85	1	FALSE
+35	Clefairy	Fairy		70	45	48	60	65	35	1	FALSE
+36	Clefable	Fairy		95	70	73	95	90	60	1	FALSE
+37	Vulpix	Fire		38	41	40	50	65	65	1	FALSE
+38	Ninetales	Fire		73	76	75	81	100	100	1	FALSE
+39	Jigglypuff	Normal	Fairy	115	45	20	45	25	20	1	FALSE
+40	Wigglytuff	Normal	Fairy	140	70	45	85	50	45	1	FALSE
+41	Zubat	Poison	Flying	40	45	35	30	40	55	1	FALSE
+42	Golbat	Poison	Flying	75	80	70	65	75	90	1	FALSE
+43	Oddish	Grass	Poison	45	50	55	75	65	30	1	FALSE
+44	Gloom	Grass	Poison	60	65	70	85	75	40	1	FALSE
+45	Vileplume	Grass	Poison	75	80	85	110	90	50	1	FALSE
+46	Paras	Bug	Grass	35	70	55	45	55	25	1	FALSE
+47	Parasect	Bug	Grass	60	95	80	60	80	30	1	FALSE
+48	Venonat	Bug	Poison	60	55	50	40	55	45	1	FALSE
+49	Venomoth	Bug	Poison	70	65	60	90	75	90	1	FALSE
+50	Diglett	Ground		10	55	25	35	45	95	1	FALSE
+51	Dugtrio	Ground		35	80	50	50	70	120	1	FALSE
+52	Meowth	Normal		40	45	35	40	40	90	1	FALSE
+53	Persian	Normal		65	70	60	65	65	115	1	FALSE
+54	Psyduck	Water		50	52	48	65	50	55	1	FALSE
+55	Golduck	Water		80	82	78	95	80	85	1	FALSE
+56	Mankey	Fighting		40	80	35	35	45	70	1	FALSE
+57	Primeape	Fighting		65	105	60	60	70	95	1	FALSE
+58	Growlithe	Fire		55	70	45	70	50	60	1	FALSE
+59	Arcanine	Fire		90	110	80	100	80	95	1	FALSE
+60	Poliwag	Water		40	50	40	40	40	90	1	FALSE
+61	Poliwhirl	Water		65	65	65	50	50	90	1	FALSE
+62	Poliwrath	Water	Fighting	90	95	95	70	90	70	1	FALSE
+63	Abra	Psychic		25	20	15	105	55	90	1	FALSE
+64	Kadabra	Psychic		40	35	30	120	70	105	1	FALSE
+65	Alakazam	Psychic		55	50	45	135	95	120	1	FALSE
+65	AlakazamMega Alakazam	Psychic		55	50	65	175	95	150	1	FALSE
+66	Machop	Fighting		70	80	50	35	35	35	1	FALSE
+67	Machoke	Fighting		80	100	70	50	60	45	1	FALSE
+68	Machamp	Fighting		90	130	80	65	85	55	1	FALSE
+69	Bellsprout	Grass	Poison	50	75	35	70	30	40	1	FALSE
+70	Weepinbell	Grass	Poison	65	90	50	85	45	55	1	FALSE
+71	Victreebel	Grass	Poison	80	105	65	100	70	70	1	FALSE
+72	Tentacool	Water	Poison	40	40	35	50	100	70	1	FALSE
+73	Tentacruel	Water	Poison	80	70	65	80	120	100	1	FALSE
+74	Geodude	Rock	Ground	40	80	100	30	30	20	1	FALSE
+75	Graveler	Rock	Ground	55	95	115	45	45	35	1	FALSE
+76	Golem	Rock	Ground	80	120	130	55	65	45	1	FALSE
+77	Ponyta	Fire		50	85	55	65	65	90	1	FALSE
+78	Rapidash	Fire		65	100	70	80	80	105	1	FALSE
+79	Slowpoke	Water	Psychic	90	65	65	40	40	15	1	FALSE
+80	Slowbro	Water	Psychic	95	75	110	100	80	30	1	FALSE
+80	SlowbroMega Slowbro	Water	Psychic	95	75	180	130	80	30	1	FALSE
+81	Magnemite	Electric	Steel	25	35	70	95	55	45	1	FALSE
+82	Magneton	Electric	Steel	50	60	95	120	70	70	1	FALSE
+83	Farfetch'd	Normal	Flying	52	65	55	58	62	60	1	FALSE
+84	Doduo	Normal	Flying	35	85	45	35	35	75	1	FALSE
+85	Dodrio	Normal	Flying	60	110	70	60	60	100	1	FALSE
+86	Seel	Water		65	45	55	45	70	45	1	FALSE
+87	Dewgong	Water	Ice	90	70	80	70	95	70	1	FALSE
+88	Grimer	Poison		80	80	50	40	50	25	1	FALSE
+89	Muk	Poison		105	105	75	65	100	50	1	FALSE
+90	Shellder	Water		30	65	100	45	25	40	1	FALSE
+91	Cloyster	Water	Ice	50	95	180	85	45	70	1	FALSE
+92	Gastly	Ghost	Poison	30	35	30	100	35	80	1	FALSE
+93	Haunter	Ghost	Poison	45	50	45	115	55	95	1	FALSE
+94	Gengar	Ghost	Poison	60	65	60	130	75	110	1	FALSE
+94	GengarMega Gengar	Ghost	Poison	60	65	80	170	95	130	1	FALSE
+95	Onix	Rock	Ground	35	45	160	30	45	70	1	FALSE
+96	Drowzee	Psychic		60	48	45	43	90	42	1	FALSE
+97	Hypno	Psychic		85	73	70	73	115	67	1	FALSE
+98	Krabby	Water		30	105	90	25	25	50	1	FALSE
+99	Kingler	Water		55	130	115	50	50	75	1	FALSE
+100	Voltorb	Electric		40	30	50	55	55	100	1	FALSE
+101	Electrode	Electric		60	50	70	80	80	140	1	FALSE
+102	Exeggcute	Grass	Psychic	60	40	80	60	45	40	1	FALSE
+103	Exeggutor	Grass	Psychic	95	95	85	125	65	55	1	FALSE
+104	Cubone	Ground		50	50	95	40	50	35	1	FALSE
+105	Marowak	Ground		60	80	110	50	80	45	1	FALSE
+106	Hitmonlee	Fighting		50	120	53	35	110	87	1	FALSE
+107	Hitmonchan	Fighting		50	105	79	35	110	76	1	FALSE
+108	Lickitung	Normal		90	55	75	60	75	30	1	FALSE
+109	Koffing	Poison		40	65	95	60	45	35	1	FALSE
+110	Weezing	Poison		65	90	120	85	70	60	1	FALSE
+111	Rhyhorn	Ground	Rock	80	85	95	30	30	25	1	FALSE
+112	Rhydon	Ground	Rock	105	130	120	45	45	40	1	FALSE
+113	Chansey	Normal		250	5	5	35	105	50	1	FALSE
+114	Tangela	Grass		65	55	115	100	40	60	1	FALSE
+115	Kangaskhan	Normal		105	95	80	40	80	90	1	FALSE
+115	KangaskhanMega Kangaskhan	Normal		105	125	100	60	100	100	1	FALSE
+116	Horsea	Water		30	40	70	70	25	60	1	FALSE
+117	Seadra	Water		55	65	95	95	45	85	1	FALSE
+118	Goldeen	Water		45	67	60	35	50	63	1	FALSE
+119	Seaking	Water		80	92	65	65	80	68	1	FALSE
+120	Staryu	Water		30	45	55	70	55	85	1	FALSE
+121	Starmie	Water	Psychic	60	75	85	100	85	115	1	FALSE
+122	Mr. Mime	Psychic	Fairy	40	45	65	100	120	90	1	FALSE
+123	Scyther	Bug	Flying	70	110	80	55	80	105	1	FALSE
+124	Jynx	Ice	Psychic	65	50	35	115	95	95	1	FALSE
+125	Electabuzz	Electric		65	83	57	95	85	105	1	FALSE
+126	Magmar	Fire		65	95	57	100	85	93	1	FALSE
+127	Pinsir	Bug		65	125	100	55	70	85	1	FALSE
+127	PinsirMega Pinsir	Bug	Flying	65	155	120	65	90	105	1	FALSE
+128	Tauros	Normal		75	100	95	40	70	110	1	FALSE
+129	Magikarp	Water		20	10	55	15	20	80	1	FALSE
+130	Gyarados	Water	Flying	95	125	79	60	100	81	1	FALSE
+130	GyaradosMega Gyarados	Water	Dark	95	155	109	70	130	81	1	FALSE
+131	Lapras	Water	Ice	130	85	80	85	95	60	1	FALSE
+132	Ditto	Normal		48	48	48	48	48	48	1	FALSE
+133	Eevee	Normal		55	55	50	45	65	55	1	FALSE
+134	Vaporeon	Water		130	65	60	110	95	65	1	FALSE
+135	Jolteon	Electric		65	65	60	110	95	130	1	FALSE
+136	Flareon	Fire		65	130	60	95	110	65	1	FALSE
+137	Porygon	Normal		65	60	70	85	75	40	1	FALSE
+138	Omanyte	Rock	Water	35	40	100	90	55	35	1	FALSE
+139	Omastar	Rock	Water	70	60	125	115	70	55	1	FALSE
+140	Kabuto	Rock	Water	30	80	90	55	45	55	1	FALSE
+141	Kabutops	Rock	Water	60	115	105	65	70	80	1	FALSE
+142	Aerodactyl	Rock	Flying	80	105	65	60	75	130	1	FALSE
+142	AerodactylMega Aerodactyl	Rock	Flying	80	135	85	70	95	150	1	FALSE
+143	Snorlax	Normal		160	110	65	65	110	30	1	FALSE
+144	Articuno	Ice	Flying	90	85	100	95	125	85	1	TRUE
+145	Zapdos	Electric	Flying	90	90	85	125	90	100	1	TRUE
+146	Moltres	Fire	Flying	90	100	90	125	85	90	1	TRUE
+147	Dratini	Dragon		41	64	45	50	50	50	1	FALSE
+148	Dragonair	Dragon		61	84	65	70	70	70	1	FALSE
+149	Dragonite	Dragon	Flying	91	134	95	100	100	80	1	FALSE
+150	Mewtwo	Psychic		106	110	90	154	90	130	1	TRUE
+150	MewtwoMega Mewtwo X	Psychic	Fighting	106	190	100	154	100	130	1	TRUE
+150	MewtwoMega Mewtwo Y	Psychic		106	150	70	194	120	140	1	TRUE
+151	Mew	Psychic		100	100	100	100	100	100	1	FALSE
+152	Chikorita	Grass		45	49	65	49	65	45	2	FALSE
+153	Bayleef	Grass		60	62	80	63	80	60	2	FALSE
+154	Meganium	Grass		80	82	100	83	100	80	2	FALSE
+155	Cyndaquil	Fire		39	52	43	60	50	65	2	FALSE
+156	Quilava	Fire		58	64	58	80	65	80	2	FALSE
+157	Typhlosion	Fire		78	84	78	109	85	100	2	FALSE
+158	Totodile	Water		50	65	64	44	48	43	2	FALSE
+159	Croconaw	Water		65	80	80	59	63	58	2	FALSE
+160	Feraligatr	Water		85	105	100	79	83	78	2	FALSE
+161	Sentret	Normal		35	46	34	35	45	20	2	FALSE
+162	Furret	Normal		85	76	64	45	55	90	2	FALSE
+163	Hoothoot	Normal	Flying	60	30	30	36	56	50	2	FALSE
+164	Noctowl	Normal	Flying	100	50	50	76	96	70	2	FALSE
+165	Ledyba	Bug	Flying	40	20	30	40	80	55	2	FALSE
+166	Ledian	Bug	Flying	55	35	50	55	110	85	2	FALSE
+167	Spinarak	Bug	Poison	40	60	40	40	40	30	2	FALSE
+168	Ariados	Bug	Poison	70	90	70	60	60	40	2	FALSE
+169	Crobat	Poison	Flying	85	90	80	70	80	130	2	FALSE
+170	Chinchou	Water	Electric	75	38	38	56	56	67	2	FALSE
+171	Lanturn	Water	Electric	125	58	58	76	76	67	2	FALSE
+172	Pichu	Electric		20	40	15	35	35	60	2	FALSE
+173	Cleffa	Fairy		50	25	28	45	55	15	2	FALSE
+174	Igglybuff	Normal	Fairy	90	30	15	40	20	15	2	FALSE
+175	Togepi	Fairy		35	20	65	40	65	20	2	FALSE
+176	Togetic	Fairy	Flying	55	40	85	80	105	40	2	FALSE
+177	Natu	Psychic	Flying	40	50	45	70	45	70	2	FALSE
+178	Xatu	Psychic	Flying	65	75	70	95	70	95	2	FALSE
+179	Mareep	Electric		55	40	40	65	45	35	2	FALSE
+180	Flaaffy	Electric		70	55	55	80	60	45	2	FALSE
+181	Ampharos	Electric		90	75	85	115	90	55	2	FALSE
+181	AmpharosMega Ampharos	Electric	Dragon	90	95	105	165	110	45	2	FALSE
+182	Bellossom	Grass		75	80	95	90	100	50	2	FALSE
+183	Marill	Water	Fairy	70	20	50	20	50	40	2	FALSE
+184	Azumarill	Water	Fairy	100	50	80	60	80	50	2	FALSE
+185	Sudowoodo	Rock		70	100	115	30	65	30	2	FALSE
+186	Politoed	Water		90	75	75	90	100	70	2	FALSE
+187	Hoppip	Grass	Flying	35	35	40	35	55	50	2	FALSE
+188	Skiploom	Grass	Flying	55	45	50	45	65	80	2	FALSE
+189	Jumpluff	Grass	Flying	75	55	70	55	95	110	2	FALSE
+190	Aipom	Normal		55	70	55	40	55	85	2	FALSE
+191	Sunkern	Grass		30	30	30	30	30	30	2	FALSE
+192	Sunflora	Grass		75	75	55	105	85	30	2	FALSE
+193	Yanma	Bug	Flying	65	65	45	75	45	95	2	FALSE
+194	Wooper	Water	Ground	55	45	45	25	25	15	2	FALSE
+195	Quagsire	Water	Ground	95	85	85	65	65	35	2	FALSE
+196	Espeon	Psychic		65	65	60	130	95	110	2	FALSE
+197	Umbreon	Dark		95	65	110	60	130	65	2	FALSE
+198	Murkrow	Dark	Flying	60	85	42	85	42	91	2	FALSE
+199	Slowking	Water	Psychic	95	75	80	100	110	30	2	FALSE
+200	Misdreavus	Ghost		60	60	60	85	85	85	2	FALSE
+201	Unown	Psychic		48	72	48	72	48	48	2	FALSE
+202	Wobbuffet	Psychic		190	33	58	33	58	33	2	FALSE
+203	Girafarig	Normal	Psychic	70	80	65	90	65	85	2	FALSE
+204	Pineco	Bug		50	65	90	35	35	15	2	FALSE
+205	Forretress	Bug	Steel	75	90	140	60	60	40	2	FALSE
+206	Dunsparce	Normal		100	70	70	65	65	45	2	FALSE
+207	Gligar	Ground	Flying	65	75	105	35	65	85	2	FALSE
+208	Steelix	Steel	Ground	75	85	200	55	65	30	2	FALSE
+208	SteelixMega Steelix	Steel	Ground	75	125	230	55	95	30	2	FALSE
+209	Snubbull	Fairy		60	80	50	40	40	30	2	FALSE
+210	Granbull	Fairy		90	120	75	60	60	45	2	FALSE
+211	Qwilfish	Water	Poison	65	95	75	55	55	85	2	FALSE
+212	Scizor	Bug	Steel	70	130	100	55	80	65	2	FALSE
+212	ScizorMega Scizor	Bug	Steel	70	150	140	65	100	75	2	FALSE
+213	Shuckle	Bug	Rock	20	10	230	10	230	5	2	FALSE
+214	Heracross	Bug	Fighting	80	125	75	40	95	85	2	FALSE
+214	HeracrossMega Heracross	Bug	Fighting	80	185	115	40	105	75	2	FALSE
+215	Sneasel	Dark	Ice	55	95	55	35	75	115	2	FALSE
+216	Teddiursa	Normal		60	80	50	50	50	40	2	FALSE
+217	Ursaring	Normal		90	130	75	75	75	55	2	FALSE
+218	Slugma	Fire		40	40	40	70	40	20	2	FALSE
+219	Magcargo	Fire	Rock	50	50	120	80	80	30	2	FALSE
+220	Swinub	Ice	Ground	50	50	40	30	30	50	2	FALSE
+221	Piloswine	Ice	Ground	100	100	80	60	60	50	2	FALSE
+222	Corsola	Water	Rock	55	55	85	65	85	35	2	FALSE
+223	Remoraid	Water		35	65	35	65	35	65	2	FALSE
+224	Octillery	Water		75	105	75	105	75	45	2	FALSE
+225	Delibird	Ice	Flying	45	55	45	65	45	75	2	FALSE
+226	Mantine	Water	Flying	65	40	70	80	140	70	2	FALSE
+227	Skarmory	Steel	Flying	65	80	140	40	70	70	2	FALSE
+228	Houndour	Dark	Fire	45	60	30	80	50	65	2	FALSE
+229	Houndoom	Dark	Fire	75	90	50	110	80	95	2	FALSE
+229	HoundoomMega Houndoom	Dark	Fire	75	90	90	140	90	115	2	FALSE
+230	Kingdra	Water	Dragon	75	95	95	95	95	85	2	FALSE
+231	Phanpy	Ground		90	60	60	40	40	40	2	FALSE
+232	Donphan	Ground		90	120	120	60	60	50	2	FALSE
+233	Porygon2	Normal		85	80	90	105	95	60	2	FALSE
+234	Stantler	Normal		73	95	62	85	65	85	2	FALSE
+235	Smeargle	Normal		55	20	35	20	45	75	2	FALSE
+236	Tyrogue	Fighting		35	35	35	35	35	35	2	FALSE
+237	Hitmontop	Fighting		50	95	95	35	110	70	2	FALSE
+238	Smoochum	Ice	Psychic	45	30	15	85	65	65	2	FALSE
+239	Elekid	Electric		45	63	37	65	55	95	2	FALSE
+240	Magby	Fire		45	75	37	70	55	83	2	FALSE
+241	Miltank	Normal		95	80	105	40	70	100	2	FALSE
+242	Blissey	Normal		255	10	10	75	135	55	2	FALSE
+243	Raikou	Electric		90	85	75	115	100	115	2	TRUE
+244	Entei	Fire		115	115	85	90	75	100	2	TRUE
+245	Suicune	Water		100	75	115	90	115	85	2	TRUE
+246	Larvitar	Rock	Ground	50	64	50	45	50	41	2	FALSE
+247	Pupitar	Rock	Ground	70	84	70	65	70	51	2	FALSE
+248	Tyranitar	Rock	Dark	100	134	110	95	100	61	2	FALSE
+248	TyranitarMega Tyranitar	Rock	Dark	100	164	150	95	120	71	2	FALSE
+249	Lugia	Psychic	Flying	106	90	130	90	154	110	2	TRUE
+250	Ho-oh	Fire	Flying	106	130	90	110	154	90	2	TRUE
+251	Celebi	Psychic	Grass	100	100	100	100	100	100	2	FALSE
+252	Treecko	Grass		40	45	35	65	55	70	3	FALSE
+253	Grovyle	Grass		50	65	45	85	65	95	3	FALSE
+254	Sceptile	Grass		70	85	65	105	85	120	3	FALSE
+254	SceptileMega Sceptile	Grass	Dragon	70	110	75	145	85	145	3	FALSE
+255	Torchic	Fire		45	60	40	70	50	45	3	FALSE
+256	Combusken	Fire	Fighting	60	85	60	85	60	55	3	FALSE
+257	Blaziken	Fire	Fighting	80	120	70	110	70	80	3	FALSE
+257	BlazikenMega Blaziken	Fire	Fighting	80	160	80	130	80	100	3	FALSE
+258	Mudkip	Water		50	70	50	50	50	40	3	FALSE
+259	Marshtomp	Water	Ground	70	85	70	60	70	50	3	FALSE
+260	Swampert	Water	Ground	100	110	90	85	90	60	3	FALSE
+260	SwampertMega Swampert	Water	Ground	100	150	110	95	110	70	3	FALSE
+261	Poochyena	Dark		35	55	35	30	30	35	3	FALSE
+262	Mightyena	Dark		70	90	70	60	60	70	3	FALSE
+263	Zigzagoon	Normal		38	30	41	30	41	60	3	FALSE
+264	Linoone	Normal		78	70	61	50	61	100	3	FALSE
+265	Wurmple	Bug		45	45	35	20	30	20	3	FALSE
+266	Silcoon	Bug		50	35	55	25	25	15	3	FALSE
+267	Beautifly	Bug	Flying	60	70	50	100	50	65	3	FALSE
+268	Cascoon	Bug		50	35	55	25	25	15	3	FALSE
+269	Dustox	Bug	Poison	60	50	70	50	90	65	3	FALSE
+270	Lotad	Water	Grass	40	30	30	40	50	30	3	FALSE
+271	Lombre	Water	Grass	60	50	50	60	70	50	3	FALSE
+272	Ludicolo	Water	Grass	80	70	70	90	100	70	3	FALSE
+273	Seedot	Grass		40	40	50	30	30	30	3	FALSE
+274	Nuzleaf	Grass	Dark	70	70	40	60	40	60	3	FALSE
+275	Shiftry	Grass	Dark	90	100	60	90	60	80	3	FALSE
+276	Taillow	Normal	Flying	40	55	30	30	30	85	3	FALSE
+277	Swellow	Normal	Flying	60	85	60	50	50	125	3	FALSE
+278	Wingull	Water	Flying	40	30	30	55	30	85	3	FALSE
+279	Pelipper	Water	Flying	60	50	100	85	70	65	3	FALSE
+280	Ralts	Psychic	Fairy	28	25	25	45	35	40	3	FALSE
+281	Kirlia	Psychic	Fairy	38	35	35	65	55	50	3	FALSE
+282	Gardevoir	Psychic	Fairy	68	65	65	125	115	80	3	FALSE
+282	GardevoirMega Gardevoir	Psychic	Fairy	68	85	65	165	135	100	3	FALSE
+283	Surskit	Bug	Water	40	30	32	50	52	65	3	FALSE
+284	Masquerain	Bug	Flying	70	60	62	80	82	60	3	FALSE
+285	Shroomish	Grass		60	40	60	40	60	35	3	FALSE
+286	Breloom	Grass	Fighting	60	130	80	60	60	70	3	FALSE
+287	Slakoth	Normal		60	60	60	35	35	30	3	FALSE
+288	Vigoroth	Normal		80	80	80	55	55	90	3	FALSE
+289	Slaking	Normal		150	160	100	95	65	100	3	FALSE
+290	Nincada	Bug	Ground	31	45	90	30	30	40	3	FALSE
+291	Ninjask	Bug	Flying	61	90	45	50	50	160	3	FALSE
+292	Shedinja	Bug	Ghost	1	90	45	30	30	40	3	FALSE
+293	Whismur	Normal		64	51	23	51	23	28	3	FALSE
+294	Loudred	Normal		84	71	43	71	43	48	3	FALSE
+295	Exploud	Normal		104	91	63	91	73	68	3	FALSE
+296	Makuhita	Fighting		72	60	30	20	30	25	3	FALSE
+297	Hariyama	Fighting		144	120	60	40	60	50	3	FALSE
+298	Azurill	Normal	Fairy	50	20	40	20	40	20	3	FALSE
+299	Nosepass	Rock		30	45	135	45	90	30	3	FALSE
+300	Skitty	Normal		50	45	45	35	35	50	3	FALSE
+301	Delcatty	Normal		70	65	65	55	55	70	3	FALSE
+302	Sableye	Dark	Ghost	50	75	75	65	65	50	3	FALSE
+302	SableyeMega Sableye	Dark	Ghost	50	85	125	85	115	20	3	FALSE
+303	Mawile	Steel	Fairy	50	85	85	55	55	50	3	FALSE
+303	MawileMega Mawile	Steel	Fairy	50	105	125	55	95	50	3	FALSE
+304	Aron	Steel	Rock	50	70	100	40	40	30	3	FALSE
+305	Lairon	Steel	Rock	60	90	140	50	50	40	3	FALSE
+306	Aggron	Steel	Rock	70	110	180	60	60	50	3	FALSE
+306	AggronMega Aggron	Steel		70	140	230	60	80	50	3	FALSE
+307	Meditite	Fighting	Psychic	30	40	55	40	55	60	3	FALSE
+308	Medicham	Fighting	Psychic	60	60	75	60	75	80	3	FALSE
+308	MedichamMega Medicham	Fighting	Psychic	60	100	85	80	85	100	3	FALSE
+309	Electrike	Electric		40	45	40	65	40	65	3	FALSE
+310	Manectric	Electric		70	75	60	105	60	105	3	FALSE
+310	ManectricMega Manectric	Electric		70	75	80	135	80	135	3	FALSE
+311	Plusle	Electric		60	50	40	85	75	95	3	FALSE
+312	Minun	Electric		60	40	50	75	85	95	3	FALSE
+313	Volbeat	Bug		65	73	55	47	75	85	3	FALSE
+314	Illumise	Bug		65	47	55	73	75	85	3	FALSE
+315	Roselia	Grass	Poison	50	60	45	100	80	65	3	FALSE
+316	Gulpin	Poison		70	43	53	43	53	40	3	FALSE
+317	Swalot	Poison		100	73	83	73	83	55	3	FALSE
+318	Carvanha	Water	Dark	45	90	20	65	20	65	3	FALSE
+319	Sharpedo	Water	Dark	70	120	40	95	40	95	3	FALSE
+319	SharpedoMega Sharpedo	Water	Dark	70	140	70	110	65	105	3	FALSE
+320	Wailmer	Water		130	70	35	70	35	60	3	FALSE
+321	Wailord	Water		170	90	45	90	45	60	3	FALSE
+322	Numel	Fire	Ground	60	60	40	65	45	35	3	FALSE
+323	Camerupt	Fire	Ground	70	100	70	105	75	40	3	FALSE
+323	CameruptMega Camerupt	Fire	Ground	70	120	100	145	105	20	3	FALSE
+324	Torkoal	Fire		70	85	140	85	70	20	3	FALSE
+325	Spoink	Psychic		60	25	35	70	80	60	3	FALSE
+326	Grumpig	Psychic		80	45	65	90	110	80	3	FALSE
+327	Spinda	Normal		60	60	60	60	60	60	3	FALSE
+328	Trapinch	Ground		45	100	45	45	45	10	3	FALSE
+329	Vibrava	Ground	Dragon	50	70	50	50	50	70	3	FALSE
+330	Flygon	Ground	Dragon	80	100	80	80	80	100	3	FALSE
+331	Cacnea	Grass		50	85	40	85	40	35	3	FALSE
+332	Cacturne	Grass	Dark	70	115	60	115	60	55	3	FALSE
+333	Swablu	Normal	Flying	45	40	60	40	75	50	3	FALSE
+334	Altaria	Dragon	Flying	75	70	90	70	105	80	3	FALSE
+334	AltariaMega Altaria	Dragon	Fairy	75	110	110	110	105	80	3	FALSE
+335	Zangoose	Normal		73	115	60	60	60	90	3	FALSE
+336	Seviper	Poison		73	100	60	100	60	65	3	FALSE
+337	Lunatone	Rock	Psychic	70	55	65	95	85	70	3	FALSE
+338	Solrock	Rock	Psychic	70	95	85	55	65	70	3	FALSE
+339	Barboach	Water	Ground	50	48	43	46	41	60	3	FALSE
+340	Whiscash	Water	Ground	110	78	73	76	71	60	3	FALSE
+341	Corphish	Water		43	80	65	50	35	35	3	FALSE
+342	Crawdaunt	Water	Dark	63	120	85	90	55	55	3	FALSE
+343	Baltoy	Ground	Psychic	40	40	55	40	70	55	3	FALSE
+344	Claydol	Ground	Psychic	60	70	105	70	120	75	3	FALSE
+345	Lileep	Rock	Grass	66	41	77	61	87	23	3	FALSE
+346	Cradily	Rock	Grass	86	81	97	81	107	43	3	FALSE
+347	Anorith	Rock	Bug	45	95	50	40	50	75	3	FALSE
+348	Armaldo	Rock	Bug	75	125	100	70	80	45	3	FALSE
+349	Feebas	Water		20	15	20	10	55	80	3	FALSE
+350	Milotic	Water		95	60	79	100	125	81	3	FALSE
+351	Castform	Normal		70	70	70	70	70	70	3	FALSE
+352	Kecleon	Normal		60	90	70	60	120	40	3	FALSE
+353	Shuppet	Ghost		44	75	35	63	33	45	3	FALSE
+354	Banette	Ghost		64	115	65	83	63	65	3	FALSE
+354	BanetteMega Banette	Ghost		64	165	75	93	83	75	3	FALSE
+355	Duskull	Ghost		20	40	90	30	90	25	3	FALSE
+356	Dusclops	Ghost		40	70	130	60	130	25	3	FALSE
+357	Tropius	Grass	Flying	99	68	83	72	87	51	3	FALSE
+358	Chimecho	Psychic		65	50	70	95	80	65	3	FALSE
+359	Absol	Dark		65	130	60	75	60	75	3	FALSE
+359	AbsolMega Absol	Dark		65	150	60	115	60	115	3	FALSE
+360	Wynaut	Psychic		95	23	48	23	48	23	3	FALSE
+361	Snorunt	Ice		50	50	50	50	50	50	3	FALSE
+362	Glalie	Ice		80	80	80	80	80	80	3	FALSE
+362	GlalieMega Glalie	Ice		80	120	80	120	80	100	3	FALSE
+363	Spheal	Ice	Water	70	40	50	55	50	25	3	FALSE
+364	Sealeo	Ice	Water	90	60	70	75	70	45	3	FALSE
+365	Walrein	Ice	Water	110	80	90	95	90	65	3	FALSE
+366	Clamperl	Water		35	64	85	74	55	32	3	FALSE
+367	Huntail	Water		55	104	105	94	75	52	3	FALSE
+368	Gorebyss	Water		55	84	105	114	75	52	3	FALSE
+369	Relicanth	Water	Rock	100	90	130	45	65	55	3	FALSE
+370	Luvdisc	Water		43	30	55	40	65	97	3	FALSE
+371	Bagon	Dragon		45	75	60	40	30	50	3	FALSE
+372	Shelgon	Dragon		65	95	100	60	50	50	3	FALSE
+373	Salamence	Dragon	Flying	95	135	80	110	80	100	3	FALSE
+373	SalamenceMega Salamence	Dragon	Flying	95	145	130	120	90	120	3	FALSE
+374	Beldum	Steel	Psychic	40	55	80	35	60	30	3	FALSE
+375	Metang	Steel	Psychic	60	75	100	55	80	50	3	FALSE
+376	Metagross	Steel	Psychic	80	135	130	95	90	70	3	FALSE
+376	MetagrossMega Metagross	Steel	Psychic	80	145	150	105	110	110	3	FALSE
+377	Regirock	Rock		80	100	200	50	100	50	3	TRUE
+378	Regice	Ice		80	50	100	100	200	50	3	TRUE
+379	Registeel	Steel		80	75	150	75	150	50	3	TRUE
+380	Latias	Dragon	Psychic	80	80	90	110	130	110	3	TRUE
+380	LatiasMega Latias	Dragon	Psychic	80	100	120	140	150	110	3	TRUE
+381	Latios	Dragon	Psychic	80	90	80	130	110	110	3	TRUE
+381	LatiosMega Latios	Dragon	Psychic	80	130	100	160	120	110	3	TRUE
+382	Kyogre	Water		100	100	90	150	140	90	3	TRUE
+382	KyogrePrimal Kyogre	Water		100	150	90	180	160	90	3	TRUE
+383	Groudon	Ground		100	150	140	100	90	90	3	TRUE
+383	GroudonPrimal Groudon	Ground	Fire	100	180	160	150	90	90	3	TRUE
+384	Rayquaza	Dragon	Flying	105	150	90	150	90	95	3	TRUE
+384	RayquazaMega Rayquaza	Dragon	Flying	105	180	100	180	100	115	3	TRUE
+385	Jirachi	Steel	Psychic	100	100	100	100	100	100	3	TRUE
+386	DeoxysNormal Forme	Psychic		50	150	50	150	50	150	3	TRUE
+386	DeoxysAttack Forme	Psychic		50	180	20	180	20	150	3	TRUE
+386	DeoxysDefense Forme	Psychic		50	70	160	70	160	90	3	TRUE
+386	DeoxysSpeed Forme	Psychic		50	95	90	95	90	180	3	TRUE
+387	Turtwig	Grass		55	68	64	45	55	31	4	FALSE
+388	Grotle	Grass		75	89	85	55	65	36	4	FALSE
+389	Torterra	Grass	Ground	95	109	105	75	85	56	4	FALSE
+390	Chimchar	Fire		44	58	44	58	44	61	4	FALSE
+391	Monferno	Fire	Fighting	64	78	52	78	52	81	4	FALSE
+392	Infernape	Fire	Fighting	76	104	71	104	71	108	4	FALSE
+393	Piplup	Water		53	51	53	61	56	40	4	FALSE
+394	Prinplup	Water		64	66	68	81	76	50	4	FALSE
+395	Empoleon	Water	Steel	84	86	88	111	101	60	4	FALSE
+396	Starly	Normal	Flying	40	55	30	30	30	60	4	FALSE
+397	Staravia	Normal	Flying	55	75	50	40	40	80	4	FALSE
+398	Staraptor	Normal	Flying	85	120	70	50	60	100	4	FALSE
+399	Bidoof	Normal		59	45	40	35	40	31	4	FALSE
+400	Bibarel	Normal	Water	79	85	60	55	60	71	4	FALSE
+401	Kricketot	Bug		37	25	41	25	41	25	4	FALSE
+402	Kricketune	Bug		77	85	51	55	51	65	4	FALSE
+403	Shinx	Electric		45	65	34	40	34	45	4	FALSE
+404	Luxio	Electric		60	85	49	60	49	60	4	FALSE
+405	Luxray	Electric		80	120	79	95	79	70	4	FALSE
+406	Budew	Grass	Poison	40	30	35	50	70	55	4	FALSE
+407	Roserade	Grass	Poison	60	70	65	125	105	90	4	FALSE
+408	Cranidos	Rock		67	125	40	30	30	58	4	FALSE
+409	Rampardos	Rock		97	165	60	65	50	58	4	FALSE
+410	Shieldon	Rock	Steel	30	42	118	42	88	30	4	FALSE
+411	Bastiodon	Rock	Steel	60	52	168	47	138	30	4	FALSE
+412	Burmy	Bug		40	29	45	29	45	36	4	FALSE
+413	WormadamPlant Cloak	Bug	Grass	60	59	85	79	105	36	4	FALSE
+413	WormadamSandy Cloak	Bug	Ground	60	79	105	59	85	36	4	FALSE
+413	WormadamTrash Cloak	Bug	Steel	60	69	95	69	95	36	4	FALSE
+414	Mothim	Bug	Flying	70	94	50	94	50	66	4	FALSE
+415	Combee	Bug	Flying	30	30	42	30	42	70	4	FALSE
+416	Vespiquen	Bug	Flying	70	80	102	80	102	40	4	FALSE
+417	Pachirisu	Electric		60	45	70	45	90	95	4	FALSE
+418	Buizel	Water		55	65	35	60	30	85	4	FALSE
+419	Floatzel	Water		85	105	55	85	50	115	4	FALSE
+420	Cherubi	Grass		45	35	45	62	53	35	4	FALSE
+421	Cherrim	Grass		70	60	70	87	78	85	4	FALSE
+422	Shellos	Water		76	48	48	57	62	34	4	FALSE
+423	Gastrodon	Water	Ground	111	83	68	92	82	39	4	FALSE
+424	Ambipom	Normal		75	100	66	60	66	115	4	FALSE
+425	Drifloon	Ghost	Flying	90	50	34	60	44	70	4	FALSE
+426	Drifblim	Ghost	Flying	150	80	44	90	54	80	4	FALSE
+427	Buneary	Normal		55	66	44	44	56	85	4	FALSE
+428	Lopunny	Normal		65	76	84	54	96	105	4	FALSE
+428	LopunnyMega Lopunny	Normal	Fighting	65	136	94	54	96	135	4	FALSE
+429	Mismagius	Ghost		60	60	60	105	105	105	4	FALSE
+430	Honchkrow	Dark	Flying	100	125	52	105	52	71	4	FALSE
+431	Glameow	Normal		49	55	42	42	37	85	4	FALSE
+432	Purugly	Normal		71	82	64	64	59	112	4	FALSE
+433	Chingling	Psychic		45	30	50	65	50	45	4	FALSE
+434	Stunky	Poison	Dark	63	63	47	41	41	74	4	FALSE
+435	Skuntank	Poison	Dark	103	93	67	71	61	84	4	FALSE
+436	Bronzor	Steel	Psychic	57	24	86	24	86	23	4	FALSE
+437	Bronzong	Steel	Psychic	67	89	116	79	116	33	4	FALSE
+438	Bonsly	Rock		50	80	95	10	45	10	4	FALSE
+439	Mime Jr.	Psychic	Fairy	20	25	45	70	90	60	4	FALSE
+440	Happiny	Normal		100	5	5	15	65	30	4	FALSE
+441	Chatot	Normal	Flying	76	65	45	92	42	91	4	FALSE
+442	Spiritomb	Ghost	Dark	50	92	108	92	108	35	4	FALSE
+443	Gible	Dragon	Ground	58	70	45	40	45	42	4	FALSE
+444	Gabite	Dragon	Ground	68	90	65	50	55	82	4	FALSE
+445	Garchomp	Dragon	Ground	108	130	95	80	85	102	4	FALSE
+445	GarchompMega Garchomp	Dragon	Ground	108	170	115	120	95	92	4	FALSE
+446	Munchlax	Normal		135	85	40	40	85	5	4	FALSE
+447	Riolu	Fighting		40	70	40	35	40	60	4	FALSE
+448	Lucario	Fighting	Steel	70	110	70	115	70	90	4	FALSE
+448	LucarioMega Lucario	Fighting	Steel	70	145	88	140	70	112	4	FALSE
+449	Hippopotas	Ground		68	72	78	38	42	32	4	FALSE
+450	Hippowdon	Ground		108	112	118	68	72	47	4	FALSE
+451	Skorupi	Poison	Bug	40	50	90	30	55	65	4	FALSE
+452	Drapion	Poison	Dark	70	90	110	60	75	95	4	FALSE
+453	Croagunk	Poison	Fighting	48	61	40	61	40	50	4	FALSE
+454	Toxicroak	Poison	Fighting	83	106	65	86	65	85	4	FALSE
+455	Carnivine	Grass		74	100	72	90	72	46	4	FALSE
+456	Finneon	Water		49	49	56	49	61	66	4	FALSE
+457	Lumineon	Water		69	69	76	69	86	91	4	FALSE
+458	Mantyke	Water	Flying	45	20	50	60	120	50	4	FALSE
+459	Snover	Grass	Ice	60	62	50	62	60	40	4	FALSE
+460	Abomasnow	Grass	Ice	90	92	75	92	85	60	4	FALSE
+460	AbomasnowMega Abomasnow	Grass	Ice	90	132	105	132	105	30	4	FALSE
+461	Weavile	Dark	Ice	70	120	65	45	85	125	4	FALSE
+462	Magnezone	Electric	Steel	70	70	115	130	90	60	4	FALSE
+463	Lickilicky	Normal		110	85	95	80	95	50	4	FALSE
+464	Rhyperior	Ground	Rock	115	140	130	55	55	40	4	FALSE
+465	Tangrowth	Grass		100	100	125	110	50	50	4	FALSE
+466	Electivire	Electric		75	123	67	95	85	95	4	FALSE
+467	Magmortar	Fire		75	95	67	125	95	83	4	FALSE
+468	Togekiss	Fairy	Flying	85	50	95	120	115	80	4	FALSE
+469	Yanmega	Bug	Flying	86	76	86	116	56	95	4	FALSE
+470	Leafeon	Grass		65	110	130	60	65	95	4	FALSE
+471	Glaceon	Ice		65	60	110	130	95	65	4	FALSE
+472	Gliscor	Ground	Flying	75	95	125	45	75	95	4	FALSE
+473	Mamoswine	Ice	Ground	110	130	80	70	60	80	4	FALSE
+474	Porygon-Z	Normal		85	80	70	135	75	90	4	FALSE
+475	Gallade	Psychic	Fighting	68	125	65	65	115	80	4	FALSE
+475	GalladeMega Gallade	Psychic	Fighting	68	165	95	65	115	110	4	FALSE
+476	Probopass	Rock	Steel	60	55	145	75	150	40	4	FALSE
+477	Dusknoir	Ghost		45	100	135	65	135	45	4	FALSE
+478	Froslass	Ice	Ghost	70	80	70	80	70	110	4	FALSE
+479	Rotom	Electric	Ghost	50	50	77	95	77	91	4	FALSE
+479	RotomHeat Rotom	Electric	Fire	50	65	107	105	107	86	4	FALSE
+479	RotomWash Rotom	Electric	Water	50	65	107	105	107	86	4	FALSE
+479	RotomFrost Rotom	Electric	Ice	50	65	107	105	107	86	4	FALSE
+479	RotomFan Rotom	Electric	Flying	50	65	107	105	107	86	4	FALSE
+479	RotomMow Rotom	Electric	Grass	50	65	107	105	107	86	4	FALSE
+480	Uxie	Psychic		75	75	130	75	130	95	4	TRUE
+481	Mesprit	Psychic		80	105	105	105	105	80	4	TRUE
+482	Azelf	Psychic		75	125	70	125	70	115	4	TRUE
+483	Dialga	Steel	Dragon	100	120	120	150	100	90	4	TRUE
+484	Palkia	Water	Dragon	90	120	100	150	120	100	4	TRUE
+485	Heatran	Fire	Steel	91	90	106	130	106	77	4	TRUE
+486	Regigigas	Normal		110	160	110	80	110	100	4	TRUE
+487	GiratinaAltered Forme	Ghost	Dragon	150	100	120	100	120	90	4	TRUE
+487	GiratinaOrigin Forme	Ghost	Dragon	150	120	100	120	100	90	4	TRUE
+488	Cresselia	Psychic		120	70	120	75	130	85	4	FALSE
+489	Phione	Water		80	80	80	80	80	80	4	FALSE
+490	Manaphy	Water		100	100	100	100	100	100	4	FALSE
+491	Darkrai	Dark		70	90	90	135	90	125	4	TRUE
+492	ShayminLand Forme	Grass		100	100	100	100	100	100	4	TRUE
+492	ShayminSky Forme	Grass	Flying	100	103	75	120	75	127	4	TRUE
+493	Arceus	Normal		120	120	120	120	120	120	4	TRUE
+494	Victini	Psychic	Fire	100	100	100	100	100	100	5	TRUE
+495	Snivy	Grass		45	45	55	45	55	63	5	FALSE
+496	Servine	Grass		60	60	75	60	75	83	5	FALSE
+497	Serperior	Grass		75	75	95	75	95	113	5	FALSE
+498	Tepig	Fire		65	63	45	45	45	45	5	FALSE
+499	Pignite	Fire	Fighting	90	93	55	70	55	55	5	FALSE
+500	Emboar	Fire	Fighting	110	123	65	100	65	65	5	FALSE
+501	Oshawott	Water		55	55	45	63	45	45	5	FALSE
+502	Dewott	Water		75	75	60	83	60	60	5	FALSE
+503	Samurott	Water		95	100	85	108	70	70	5	FALSE
+504	Patrat	Normal		45	55	39	35	39	42	5	FALSE
+505	Watchog	Normal		60	85	69	60	69	77	5	FALSE
+506	Lillipup	Normal		45	60	45	25	45	55	5	FALSE
+507	Herdier	Normal		65	80	65	35	65	60	5	FALSE
+508	Stoutland	Normal		85	110	90	45	90	80	5	FALSE
+509	Purrloin	Dark		41	50	37	50	37	66	5	FALSE
+510	Liepard	Dark		64	88	50	88	50	106	5	FALSE
+511	Pansage	Grass		50	53	48	53	48	64	5	FALSE
+512	Simisage	Grass		75	98	63	98	63	101	5	FALSE
+513	Pansear	Fire		50	53	48	53	48	64	5	FALSE
+514	Simisear	Fire		75	98	63	98	63	101	5	FALSE
+515	Panpour	Water		50	53	48	53	48	64	5	FALSE
+516	Simipour	Water		75	98	63	98	63	101	5	FALSE
+517	Munna	Psychic		76	25	45	67	55	24	5	FALSE
+518	Musharna	Psychic		116	55	85	107	95	29	5	FALSE
+519	Pidove	Normal	Flying	50	55	50	36	30	43	5	FALSE
+520	Tranquill	Normal	Flying	62	77	62	50	42	65	5	FALSE
+521	Unfezant	Normal	Flying	80	115	80	65	55	93	5	FALSE
+522	Blitzle	Electric		45	60	32	50	32	76	5	FALSE
+523	Zebstrika	Electric		75	100	63	80	63	116	5	FALSE
+524	Roggenrola	Rock		55	75	85	25	25	15	5	FALSE
+525	Boldore	Rock		70	105	105	50	40	20	5	FALSE
+526	Gigalith	Rock		85	135	130	60	80	25	5	FALSE
+527	Woobat	Psychic	Flying	55	45	43	55	43	72	5	FALSE
+528	Swoobat	Psychic	Flying	67	57	55	77	55	114	5	FALSE
+529	Drilbur	Ground		60	85	40	30	45	68	5	FALSE
+530	Excadrill	Ground	Steel	110	135	60	50	65	88	5	FALSE
+531	Audino	Normal		103	60	86	60	86	50	5	FALSE
+531	AudinoMega Audino	Normal	Fairy	103	60	126	80	126	50	5	FALSE
+532	Timburr	Fighting		75	80	55	25	35	35	5	FALSE
+533	Gurdurr	Fighting		85	105	85	40	50	40	5	FALSE
+534	Conkeldurr	Fighting		105	140	95	55	65	45	5	FALSE
+535	Tympole	Water		50	50	40	50	40	64	5	FALSE
+536	Palpitoad	Water	Ground	75	65	55	65	55	69	5	FALSE
+537	Seismitoad	Water	Ground	105	95	75	85	75	74	5	FALSE
+538	Throh	Fighting		120	100	85	30	85	45	5	FALSE
+539	Sawk	Fighting		75	125	75	30	75	85	5	FALSE
+540	Sewaddle	Bug	Grass	45	53	70	40	60	42	5	FALSE
+541	Swadloon	Bug	Grass	55	63	90	50	80	42	5	FALSE
+542	Leavanny	Bug	Grass	75	103	80	70	80	92	5	FALSE
+543	Venipede	Bug	Poison	30	45	59	30	39	57	5	FALSE
+544	Whirlipede	Bug	Poison	40	55	99	40	79	47	5	FALSE
+545	Scolipede	Bug	Poison	60	100	89	55	69	112	5	FALSE
+546	Cottonee	Grass	Fairy	40	27	60	37	50	66	5	FALSE
+547	Whimsicott	Grass	Fairy	60	67	85	77	75	116	5	FALSE
+548	Petilil	Grass		45	35	50	70	50	30	5	FALSE
+549	Lilligant	Grass		70	60	75	110	75	90	5	FALSE
+550	Basculin	Water		70	92	65	80	55	98	5	FALSE
+551	Sandile	Ground	Dark	50	72	35	35	35	65	5	FALSE
+552	Krokorok	Ground	Dark	60	82	45	45	45	74	5	FALSE
+553	Krookodile	Ground	Dark	95	117	80	65	70	92	5	FALSE
+554	Darumaka	Fire		70	90	45	15	45	50	5	FALSE
+555	DarmanitanStandard Mode	Fire		105	140	55	30	55	95	5	FALSE
+555	DarmanitanZen Mode	Fire	Psychic	105	30	105	140	105	55	5	FALSE
+556	Maractus	Grass		75	86	67	106	67	60	5	FALSE
+557	Dwebble	Bug	Rock	50	65	85	35	35	55	5	FALSE
+558	Crustle	Bug	Rock	70	95	125	65	75	45	5	FALSE
+559	Scraggy	Dark	Fighting	50	75	70	35	70	48	5	FALSE
+560	Scrafty	Dark	Fighting	65	90	115	45	115	58	5	FALSE
+561	Sigilyph	Psychic	Flying	72	58	80	103	80	97	5	FALSE
+562	Yamask	Ghost		38	30	85	55	65	30	5	FALSE
+563	Cofagrigus	Ghost		58	50	145	95	105	30	5	FALSE
+564	Tirtouga	Water	Rock	54	78	103	53	45	22	5	FALSE
+565	Carracosta	Water	Rock	74	108	133	83	65	32	5	FALSE
+566	Archen	Rock	Flying	55	112	45	74	45	70	5	FALSE
+567	Archeops	Rock	Flying	75	140	65	112	65	110	5	FALSE
+568	Trubbish	Poison		50	50	62	40	62	65	5	FALSE
+569	Garbodor	Poison		80	95	82	60	82	75	5	FALSE
+570	Zorua	Dark		40	65	40	80	40	65	5	FALSE
+571	Zoroark	Dark		60	105	60	120	60	105	5	FALSE
+572	Minccino	Normal		55	50	40	40	40	75	5	FALSE
+573	Cinccino	Normal		75	95	60	65	60	115	5	FALSE
+574	Gothita	Psychic		45	30	50	55	65	45	5	FALSE
+575	Gothorita	Psychic		60	45	70	75	85	55	5	FALSE
+576	Gothitelle	Psychic		70	55	95	95	110	65	5	FALSE
+577	Solosis	Psychic		45	30	40	105	50	20	5	FALSE
+578	Duosion	Psychic		65	40	50	125	60	30	5	FALSE
+579	Reuniclus	Psychic		110	65	75	125	85	30	5	FALSE
+580	Ducklett	Water	Flying	62	44	50	44	50	55	5	FALSE
+581	Swanna	Water	Flying	75	87	63	87	63	98	5	FALSE
+582	Vanillite	Ice		36	50	50	65	60	44	5	FALSE
+583	Vanillish	Ice		51	65	65	80	75	59	5	FALSE
+584	Vanilluxe	Ice		71	95	85	110	95	79	5	FALSE
+585	Deerling	Normal	Grass	60	60	50	40	50	75	5	FALSE
+586	Sawsbuck	Normal	Grass	80	100	70	60	70	95	5	FALSE
+587	Emolga	Electric	Flying	55	75	60	75	60	103	5	FALSE
+588	Karrablast	Bug		50	75	45	40	45	60	5	FALSE
+589	Escavalier	Bug	Steel	70	135	105	60	105	20	5	FALSE
+590	Foongus	Grass	Poison	69	55	45	55	55	15	5	FALSE
+591	Amoonguss	Grass	Poison	114	85	70	85	80	30	5	FALSE
+592	Frillish	Water	Ghost	55	40	50	65	85	40	5	FALSE
+593	Jellicent	Water	Ghost	100	60	70	85	105	60	5	FALSE
+594	Alomomola	Water		165	75	80	40	45	65	5	FALSE
+595	Joltik	Bug	Electric	50	47	50	57	50	65	5	FALSE
+596	Galvantula	Bug	Electric	70	77	60	97	60	108	5	FALSE
+597	Ferroseed	Grass	Steel	44	50	91	24	86	10	5	FALSE
+598	Ferrothorn	Grass	Steel	74	94	131	54	116	20	5	FALSE
+599	Klink	Steel		40	55	70	45	60	30	5	FALSE
+600	Klang	Steel		60	80	95	70	85	50	5	FALSE
+601	Klinklang	Steel		60	100	115	70	85	90	5	FALSE
+602	Tynamo	Electric		35	55	40	45	40	60	5	FALSE
+603	Eelektrik	Electric		65	85	70	75	70	40	5	FALSE
+604	Eelektross	Electric		85	115	80	105	80	50	5	FALSE
+605	Elgyem	Psychic		55	55	55	85	55	30	5	FALSE
+606	Beheeyem	Psychic		75	75	75	125	95	40	5	FALSE
+607	Litwick	Ghost	Fire	50	30	55	65	55	20	5	FALSE
+608	Lampent	Ghost	Fire	60	40	60	95	60	55	5	FALSE
+609	Chandelure	Ghost	Fire	60	55	90	145	90	80	5	FALSE
+610	Axew	Dragon		46	87	60	30	40	57	5	FALSE
+611	Fraxure	Dragon		66	117	70	40	50	67	5	FALSE
+612	Haxorus	Dragon		76	147	90	60	70	97	5	FALSE
+613	Cubchoo	Ice		55	70	40	60	40	40	5	FALSE
+614	Beartic	Ice		95	110	80	70	80	50	5	FALSE
+615	Cryogonal	Ice		70	50	30	95	135	105	5	FALSE
+616	Shelmet	Bug		50	40	85	40	65	25	5	FALSE
+617	Accelgor	Bug		80	70	40	100	60	145	5	FALSE
+618	Stunfisk	Ground	Electric	109	66	84	81	99	32	5	FALSE
+619	Mienfoo	Fighting		45	85	50	55	50	65	5	FALSE
+620	Mienshao	Fighting		65	125	60	95	60	105	5	FALSE
+621	Druddigon	Dragon		77	120	90	60	90	48	5	FALSE
+622	Golett	Ground	Ghost	59	74	50	35	50	35	5	FALSE
+623	Golurk	Ground	Ghost	89	124	80	55	80	55	5	FALSE
+624	Pawniard	Dark	Steel	45	85	70	40	40	60	5	FALSE
+625	Bisharp	Dark	Steel	65	125	100	60	70	70	5	FALSE
+626	Bouffalant	Normal		95	110	95	40	95	55	5	FALSE
+627	Rufflet	Normal	Flying	70	83	50	37	50	60	5	FALSE
+628	Braviary	Normal	Flying	100	123	75	57	75	80	5	FALSE
+629	Vullaby	Dark	Flying	70	55	75	45	65	60	5	FALSE
+630	Mandibuzz	Dark	Flying	110	65	105	55	95	80	5	FALSE
+631	Heatmor	Fire		85	97	66	105	66	65	5	FALSE
+632	Durant	Bug	Steel	58	109	112	48	48	109	5	FALSE
+633	Deino	Dark	Dragon	52	65	50	45	50	38	5	FALSE
+634	Zweilous	Dark	Dragon	72	85	70	65	70	58	5	FALSE
+635	Hydreigon	Dark	Dragon	92	105	90	125	90	98	5	FALSE
+636	Larvesta	Bug	Fire	55	85	55	50	55	60	5	FALSE
+637	Volcarona	Bug	Fire	85	60	65	135	105	100	5	FALSE
+638	Cobalion	Steel	Fighting	91	90	129	90	72	108	5	TRUE
+639	Terrakion	Rock	Fighting	91	129	90	72	90	108	5	TRUE
+640	Virizion	Grass	Fighting	91	90	72	90	129	108	5	TRUE
+641	TornadusIncarnate Forme	Flying		79	115	70	125	80	111	5	TRUE
+641	TornadusTherian Forme	Flying		79	100	80	110	90	121	5	TRUE
+642	ThundurusIncarnate Forme	Electric	Flying	79	115	70	125	80	111	5	TRUE
+642	ThundurusTherian Forme	Electric	Flying	79	105	70	145	80	101	5	TRUE
+643	Reshiram	Dragon	Fire	100	120	100	150	120	90	5	TRUE
+644	Zekrom	Dragon	Electric	100	150	120	120	100	90	5	TRUE
+645	LandorusIncarnate Forme	Ground	Flying	89	125	90	115	80	101	5	TRUE
+645	LandorusTherian Forme	Ground	Flying	89	145	90	105	80	91	5	TRUE
+646	Kyurem	Dragon	Ice	125	130	90	130	90	95	5	TRUE
+646	KyuremBlack Kyurem	Dragon	Ice	125	170	100	120	90	95	5	TRUE
+646	KyuremWhite Kyurem	Dragon	Ice	125	120	90	170	100	95	5	TRUE
+647	KeldeoOrdinary Forme	Water	Fighting	91	72	90	129	90	108	5	FALSE
+647	KeldeoResolute Forme	Water	Fighting	91	72	90	129	90	108	5	FALSE
+648	MeloettaAria Forme	Normal	Psychic	100	77	77	128	128	90	5	FALSE
+648	MeloettaPirouette Forme	Normal	Fighting	100	128	90	77	77	128	5	FALSE
+649	Genesect	Bug	Steel	71	120	95	120	95	99	5	FALSE
+650	Chespin	Grass		56	61	65	48	45	38	6	FALSE
+651	Quilladin	Grass		61	78	95	56	58	57	6	FALSE
+652	Chesnaught	Grass	Fighting	88	107	122	74	75	64	6	FALSE
+653	Fennekin	Fire		40	45	40	62	60	60	6	FALSE
+654	Braixen	Fire		59	59	58	90	70	73	6	FALSE
+655	Delphox	Fire	Psychic	75	69	72	114	100	104	6	FALSE
+656	Froakie	Water		41	56	40	62	44	71	6	FALSE
+657	Frogadier	Water		54	63	52	83	56	97	6	FALSE
+658	Greninja	Water	Dark	72	95	67	103	71	122	6	FALSE
+659	Bunnelby	Normal		38	36	38	32	36	57	6	FALSE
+660	Diggersby	Normal	Ground	85	56	77	50	77	78	6	FALSE
+661	Fletchling	Normal	Flying	45	50	43	40	38	62	6	FALSE
+662	Fletchinder	Fire	Flying	62	73	55	56	52	84	6	FALSE
+663	Talonflame	Fire	Flying	78	81	71	74	69	126	6	FALSE
+664	Scatterbug	Bug		38	35	40	27	25	35	6	FALSE
+665	Spewpa	Bug		45	22	60	27	30	29	6	FALSE
+666	Vivillon	Bug	Flying	80	52	50	90	50	89	6	FALSE
+667	Litleo	Fire	Normal	62	50	58	73	54	72	6	FALSE
+668	Pyroar	Fire	Normal	86	68	72	109	66	106	6	FALSE
+669	Flabébé	Fairy		44	38	39	61	79	42	6	FALSE
+670	Floette	Fairy		54	45	47	75	98	52	6	FALSE
+671	Florges	Fairy		78	65	68	112	154	75	6	FALSE
+672	Skiddo	Grass		66	65	48	62	57	52	6	FALSE
+673	Gogoat	Grass		123	100	62	97	81	68	6	FALSE
+674	Pancham	Fighting		67	82	62	46	48	43	6	FALSE
+675	Pangoro	Fighting	Dark	95	124	78	69	71	58	6	FALSE
+676	Furfrou	Normal		75	80	60	65	90	102	6	FALSE
+677	Espurr	Psychic		62	48	54	63	60	68	6	FALSE
+678	MeowsticMale	Psychic		74	48	76	83	81	104	6	FALSE
+678	MeowsticFemale	Psychic		74	48	76	83	81	104	6	FALSE
+679	Honedge	Steel	Ghost	45	80	100	35	37	28	6	FALSE
+680	Doublade	Steel	Ghost	59	110	150	45	49	35	6	FALSE
+681	AegislashBlade Forme	Steel	Ghost	60	150	50	150	50	60	6	FALSE
+681	AegislashShield Forme	Steel	Ghost	60	50	150	50	150	60	6	FALSE
+682	Spritzee	Fairy		78	52	60	63	65	23	6	FALSE
+683	Aromatisse	Fairy		101	72	72	99	89	29	6	FALSE
+684	Swirlix	Fairy		62	48	66	59	57	49	6	FALSE
+685	Slurpuff	Fairy		82	80	86	85	75	72	6	FALSE
+686	Inkay	Dark	Psychic	53	54	53	37	46	45	6	FALSE
+687	Malamar	Dark	Psychic	86	92	88	68	75	73	6	FALSE
+688	Binacle	Rock	Water	42	52	67	39	56	50	6	FALSE
+689	Barbaracle	Rock	Water	72	105	115	54	86	68	6	FALSE
+690	Skrelp	Poison	Water	50	60	60	60	60	30	6	FALSE
+691	Dragalge	Poison	Dragon	65	75	90	97	123	44	6	FALSE
+692	Clauncher	Water		50	53	62	58	63	44	6	FALSE
+693	Clawitzer	Water		71	73	88	120	89	59	6	FALSE
+694	Helioptile	Electric	Normal	44	38	33	61	43	70	6	FALSE
+695	Heliolisk	Electric	Normal	62	55	52	109	94	109	6	FALSE
+696	Tyrunt	Rock	Dragon	58	89	77	45	45	48	6	FALSE
+697	Tyrantrum	Rock	Dragon	82	121	119	69	59	71	6	FALSE
+698	Amaura	Rock	Ice	77	59	50	67	63	46	6	FALSE
+699	Aurorus	Rock	Ice	123	77	72	99	92	58	6	FALSE
+700	Sylveon	Fairy		95	65	65	110	130	60	6	FALSE
+701	Hawlucha	Fighting	Flying	78	92	75	74	63	118	6	FALSE
+702	Dedenne	Electric	Fairy	67	58	57	81	67	101	6	FALSE
+703	Carbink	Rock	Fairy	50	50	150	50	150	50	6	FALSE
+704	Goomy	Dragon		45	50	35	55	75	40	6	FALSE
+705	Sliggoo	Dragon		68	75	53	83	113	60	6	FALSE
+706	Goodra	Dragon		90	100	70	110	150	80	6	FALSE
+707	Klefki	Steel	Fairy	57	80	91	80	87	75	6	FALSE
+708	Phantump	Ghost	Grass	43	70	48	50	60	38	6	FALSE
+709	Trevenant	Ghost	Grass	85	110	76	65	82	56	6	FALSE
+710	PumpkabooAverage Size	Ghost	Grass	49	66	70	44	55	51	6	FALSE
+710	PumpkabooSmall Size	Ghost	Grass	44	66	70	44	55	56	6	FALSE
+710	PumpkabooLarge Size	Ghost	Grass	54	66	70	44	55	46	6	FALSE
+710	PumpkabooSuper Size	Ghost	Grass	59	66	70	44	55	41	6	FALSE
+711	GourgeistAverage Size	Ghost	Grass	65	90	122	58	75	84	6	FALSE
+711	GourgeistSmall Size	Ghost	Grass	55	85	122	58	75	99	6	FALSE
+711	GourgeistLarge Size	Ghost	Grass	75	95	122	58	75	69	6	FALSE
+711	GourgeistSuper Size	Ghost	Grass	85	100	122	58	75	54	6	FALSE
+712	Bergmite	Ice		55	69	85	32	35	28	6	FALSE
+713	Avalugg	Ice		95	117	184	44	46	28	6	FALSE
+714	Noibat	Flying	Dragon	40	30	35	45	40	55	6	FALSE
+715	Noivern	Flying	Dragon	85	70	80	97	80	123	6	FALSE
+716	Xerneas	Fairy		126	131	95	131	98	99	6	TRUE
+717	Yveltal	Dark	Flying	126	131	95	131	98	99	6	TRUE
+718	Zygarde50% Forme	Dragon	Ground	108	100	121	81	95	95	6	TRUE
+719	Diancie	Rock	Fairy	50	100	150	100	150	50	6	TRUE
+719	DiancieMega Diancie	Rock	Fairy	50	160	110	160	110	110	6	TRUE
+720	HoopaHoopa Confined	Psychic	Ghost	80	110	60	150	130	70	6	TRUE
+720	HoopaHoopa Unbound	Psychic	Dark	80	160	60	170	130	80	6	TRUE
+721	Volcanion	Fire	Water	80	110	120	130	90	70	6	TRUE
