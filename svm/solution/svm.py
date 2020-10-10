@@ -25,15 +25,6 @@ class SVM:
                     self.w = self.w - self.learning_rate * ((2 * self.learning_rate * self.w) - (y_[i] * x_i))
                     self.b = self.b - (self.learning_rate * y_[i])   
 
-        
-
-
-
-
-
-
-        
-
     def predict(self, X):
         output = np.dot(X, self.w) - self.b
         return np.sign(output)
