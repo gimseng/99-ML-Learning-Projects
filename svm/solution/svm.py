@@ -15,7 +15,8 @@ class SVM:
         else:
             y_ = 1
         n_samples , n_features = X.shape
-        self.w = n_features
+        self.w = np.zerosolutios(n_features)
+        self.b = 0
         for i in range(self.n_iters):
             for i, x_i in enumerate(X):
                 condition = y_[i] * (np.dot(x_i, self.w) - self.b)
