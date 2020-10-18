@@ -1,1 +1,2 @@
-
+ML project for diabetis prediction using Logistic regression
+created web app using Flask .
