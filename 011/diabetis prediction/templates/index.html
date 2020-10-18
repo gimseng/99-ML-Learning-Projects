@@ -1,0 +1,157 @@
+<!-- This is GUI for Breast Cancer Detection Application Using Machine Learning Classifer -->
+
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>akash app</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+
+  <style>
+    /* CSS code for button */
+    body {
+      background-image: url('https://i.imgur.com/RE8NF7q.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-color: rgba(0, 0, 0, 0.5);
+      background-size: cover;
+ }
+
+    /* CSS code for button */
+    .button_css {
+    color: #494949 !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 10px;
+    border: 3px solid #494949 !important;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+    }
+
+    .button_css:hover {
+    color: #000000 ;
+    background: #6A5ACD;
+    border-color: #FFFFFF ;
+    transition: all 0.4s ease 0s;
+    }
+
+
+   .intro-bg .socials a{
+	color: #ffff;
+	font-size: 1.5em;
+	padding: 4px;
+	transition: all 0.5s linear;
+}
+
+   .intro-bg .socials a:hover {
+	color:  #ffffff;
+	transition: all 0.4s ease 0s;
+}
+
+*,body,input,select {   font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#"> Akash Desai </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="https://www.kaggle.com/uciml/pima-indians-diabetes-database"> Description about Project <span class="sr-only">(current)</span></a>
+      </li>
+
+      <li class="nav-item active">
+        <a class="nav-link" href="https://akashad98.github.io/my_portfolio/">My portfolio </a>
+     </li>
+
+
+  </div>
+</nav>
+
+
+
+ <section class="login">
+
+    <!-- Get input for predict the cancer -->
+    <center>
+        <h2 class="text-primary"> <b>Ai For Healthcare</b> </h2>
+    <p class="text-white"><b>Hi this is  Machine Learning app which predicts whether the patient has Diabetes or Not!</b></p>
+
+
+    <form action="{{ url_for('predict')}}"method="post">
+
+         <h6 class="text-white">Enter the values for diabetis prediction</h6>
+    	<input type="text" name="Pregnancies" placeholder="Pregnancies" required="required" /> <br>
+        <input type="text" name="Glucose" placeholder="Glucose" required="required" /><br>
+		<input type="text" name="BloodPressure" placeholder="BloodPressure" required="required" /><br>
+		<input type="text" name="SkinThickness" placeholder=" SkinThickness" required="required" /><br>
+        <input type="text" name="Insulin" placeholder="Insulin" required="required" /><br>
+		<input type="text" name="BMI" placeholder="BMI" required="required" /><br>
+        <input type="text" name="DiabetesPedigreeFunction" placeholder="DiabetesPedigreeFunction" required="DiabetesPedigreeFunction" /><br>
+        <input type="text" name="Age" placeholder="Age" required="required" />
+    <div class="text-muted">.
+
+    </div> 
+        <!-- Show button -->
+        <div class="button_cont" align="center"><a class="button_css" href="" target="_blank" rel="nofollow noopener">
+            <button type="submit" class="btn btn-primary btn-block btn-large"><strong>Predict Dibetis</strong></button></a>
+        </div>
+
+    </form>
+
+
+   <!-- Show predicted output using ML model -->
+   <div>
+       <a>
+
+ <a class="text-warning text-decoration-none" href="#"
+
+   <h2 >{{ prediction_text }}</h2> </a>
+   <section class="intro-bg ">
+
+    <div class="content">
+        <div class="text-centre socials">
+           <a href="https://github.com/akashAD98"><i class="fa fa-github" aria-hidden="true"></i>
+			<a href="https://www.linkedin.com/in/akash-desai-1b482b196/"><i class="fa fa-linkedin" aria-hidden="true"></i>
+			<a href="https://instagram.com/akash_a_desai"><i class="fa fa-instagram" aria-hidden="true"></i>
+
+			<a href="https://twitter.com/1998aks2"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+
+        </div>
+         </center>
+    </div>
+    </section>
+       </center>
+        <footer>
+      <div class="container text-muted text-center py-3 mt-5">
+        <h6>
+          Copyright  &copy; 2020 |
+          <a class="text-whitte" href="#about"
+            >Akash Desai</a
+          >
+        </h6>
+      </div>
+    </footer>
+
+
+         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
+
