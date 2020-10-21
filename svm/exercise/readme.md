@@ -57,17 +57,9 @@ The algorithm should be implemented as follows:
 2. Extract the features from the spam/ham dataset
 3. Implement the SVM class and fit and predict functions
 4. In the SVM class, define and initialize the lambada parameter, learning rate, weights and biases. In this case the lamabda parameter and learning rate are regularization parameters for SVM, and weights are being trained using the linear SVM kernel
-5. In the predict function, a linear kernel is defined by xi.w+b . Return the result of xi.w+b along with the sign in this function.
-6. In the fit function, check for the sign of y, the actual value of target variable. If y is less than or equal to 0, set equal to -1. If y is greater than 0, set y to 1. Get the number of training samples and number of features using the shape of input matrix X. Set the weights equal to a numpy array of zeros equal to the size of number of features. In this function, we will be training the linear svm model for a specific number of iterations. Hence, here for each epoch while training the model, we will take a traning sample xi and calculate the objective function:  yi(x.w)+b>=1. If the objective function calculated is greater than or equal to one, update the weights. If the objective function is less than 1, update the weights and bias  
+5. Implement the fit and predict functions for SVM.
 
 
-
-Here is a template notebook to get you started:
-
-`svm_starter_exercise.ipynb`
-
-[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gimseng/99-ML-Learning-Projects/blob/master/svm/exercise/svm_starter_exercise.ipynb)
-[![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gimseng/99-ML-Learning-Projects/blob/master/svm/exercise/svm_starter_exercise.ipynb)
 
 ### References
 - https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
