@@ -1,0 +1,1 @@
+This Exercise will guide the user through the creation of a multilayer-percetron explaining data cleaning, the math behind the model and how to train the model.
