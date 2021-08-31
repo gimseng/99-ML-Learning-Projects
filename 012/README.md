@@ -9,3 +9,5 @@
  *  Datasets are created from annotated json file
  *  Data augmentation is done using [albumentations](https://github.com/albumentations-team/albumentations) library
  
+# Training
+To train the model simply run train.py
