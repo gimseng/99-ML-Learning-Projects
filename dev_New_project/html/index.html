@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>RTO Connect</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="button.js"></script>
+</head>
+    <body >
+        <div class="top">
+            
+            <div class="nav-bar">
+                <h1>VEHICLE IDENTITY DETECTOR</h1>
+            </div>
+            <div id="d1" class="class1">
+            <div id="btn">
+                <div id="btn-info" >
+                   <div><b> Press this button to open your webcam.
+                       It will capture your car image and give you number plate details.
+                    </b>
+                </div>
+                    
+                </div id="forma">
+                    <input placeholder="Enter your plate number" type="text" id="lname" >                              
+                    <button type="submit"  onclick="getInfo(printer('lname'));" class="submit-btn">Click</button>
+                </div>
+            </div>
+
+
+            <div id="d2" class="class1">
+                <div id="car-top">CAR INFORMATION</div>
+                <pre>
+                <div id="output">
+
+                </div>
+                </pre>
+            </div>
+        </div>
+        
+
+        
+        <div class="hero">
+
+            <div class="highway" ></div>
+            <div class="city" >
+            </div>
+            <div class="car">
+                <img src="static/css/images/car.png">
+            </div>
+            <div class="wheel">
+                <img src="static/css/images/wheel.png" class="back-wheel">
+                <img src="static/css/images/wheel.png" class="front-wheel">
+            </div>
+        </div>
+        <script src="button.js"></script>
+
+    </body>
+</html>
+    

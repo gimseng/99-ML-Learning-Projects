@@ -1,0 +1,215 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./images/sky.jpeg);
+}
+
+.hero
+{
+    height: 60%;
+    width: 100%;
+    /* background-image: url(./images/sky.jpeg); */
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow-x: hidden;
+}
+.highway
+{
+    height: 200px;
+    width: 500%;
+    display: block;
+    background-image: url("./images/road.jpg");
+    position: absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index:1;
+    animation: highway 5s linear infinite;
+}
+@keyframes highway
+{
+    100%{
+        transform: translateX(-3400px);
+    }
+}
+.city 
+{
+    height: 250px;
+    width: 500%;
+    background-image: url("./images/city.png");
+    position: absolute;
+    bottom: 200px;
+    left:0;
+    right:0;
+    display:block;
+    z-index: 1;
+    background-repeat: repeat-x;
+    animation: city 20s linear infinite;
+}
+@keyframes city
+{
+    100%{
+        transform: translateX(-1400px);
+    }
+}
+.car
+{
+    width: 400px;
+    left: 50%;
+    bottom: 100px;
+    transform: translateX(-50%);
+    position: absolute;
+    z-index: 2;
+}
+.car img
+{
+    width: 100%;
+    animation:car 1s linear infinite;
+}
+@keyframes car
+{
+    100%{
+        transform: translateY(-1px);
+    }
+    50%{
+        transform: translateY(1px);
+    }
+    0%{
+        transform: translateY(-1px);
+    }
+}
+.wheel
+{
+    left: 50%;
+    bottom: 178px;
+    transform: translateX(-50%);
+    position: absolute;
+    z-index: 2;
+}
+.wheel img
+{
+    width: 72px;
+    height: 72px;
+    animation: wheel 1s linear infinite;
+}
+.back-wheel
+{
+    left: -165px;
+    position: absolute;
+}
+.front-wheel
+{
+    left: 80px;
+    position: absolute;
+}
+@keyframes wheel
+{
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+.top{
+    height: 50%;
+    width: 100%;
+    /* background-image: url("./images/sky.jpeg"); */
+    background-size: cover;
+}
+
+.nav-bar{
+border-radius: 20px;
+margin-left: 10px;
+margin-right: 10px;
+border: solid black 2px;
+height: 20%;
+text-align: center;
+padding-top: 25px;
+margin-top: 5px;
+background-color: black;
+color:white
+}
+
+#btn{
+    height: 60%;
+    border-radius: 10px;
+    border: solid black 3px;
+    margin: 10px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    background-color: rgb(176, 211, 245);
+}
+
+.submit-btn{
+    border: solid  black;
+    height: 40px;
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 20%;
+    border-radius: 20px;
+    text-decoration: black;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+#btn-info{
+    padding-left: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.class1{
+    width: 48%;
+    float: left;
+}
+
+
+#d2{
+    background-color: rgb(176, 211, 245);
+    height: 60%;
+    border-radius: 10px;
+    border: solid black 3px;
+    margin: 10px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+
+}
+
+#car-top{
+    background-color: rgb(175, 18, 18);
+    border: bottom solid black 3px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+    color: cornsilk;
+    height: 30px;
+}
+#output{
+    text-align: left;
+    font-size: medium;
+    padding-left: 10px;
+}
+
+#lname{
+    margin: 50px;
+    height: 40px;
+    width: 250px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: large;
+}
+
+::placeholder{
+   text-align: center;
+}
+
+#forma{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
