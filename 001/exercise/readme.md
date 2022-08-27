@@ -36,7 +36,7 @@ Most Machine learning projects usually follow a similar outline (a set of phases
     - Delete columns irrelevant or not useful for prediction
     - Get the average rate of survival by Gender, Pclass
     - Plotting the number of people who survived and who didn't survive
-    - Plot the precenrage of survival by gender
+    - Plot the precentage of survival by gender
     - Handle null/missing values 
     - Plot the survival rate by Age
     - Handle categorical text values and turn them into numerical
