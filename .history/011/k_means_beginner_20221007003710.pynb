@@ -1,0 +1,9 @@
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import os
+import matplotlib.pyplot as plt
+from sklearn import cluster
+from sklearn import preprocessing
+import plotly.express as px
+from sklearn.datasets import make_blobs
+plt.style.use('dark_background')
