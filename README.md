@@ -38,6 +38,8 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 
 - [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise)
 
+- [Movie Recommendation System using Feature Extraction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/011)
+
 
 #### Computer Vision
 - [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
