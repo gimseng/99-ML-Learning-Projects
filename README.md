@@ -23,7 +23,7 @@ The format is roughly the following:
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 ### Goal: 99 Projects  
-### Current: 10 Projects
+### Current: 11 Projects
 
 ## Table of Contents
 #### General-Purpose Machine Learning
@@ -37,6 +37,8 @@ Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open
 - [kNN from Sklearn [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/009/exercise)
 
 - [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise)
+
+- [Movie Recommendation System using Feature Extraction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/011)
 
 
 #### Computer Vision
