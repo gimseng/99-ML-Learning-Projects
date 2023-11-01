@@ -65,3 +65,24 @@ First, create the folder using a placeholder name, roughly related to the model/
 Please provide a description/summary in the `readme.md` in each of the `exercise` and `solution` folders. If its appropriate, reference/credit sources. In the `data` folder, if relevant, provide a `readme.md` to describe the data and its source.
 
 When we eventually merge, the root folder name of your project will be renamed numerically by chronological order.
+
+## Documenting the exercise or solution
+
+When creating the `readme.md`, make sure to follow the below format. This ensures that each project contains the same level of information, providing a more complete experience for the user. Fomat as follow:
+
+1. Exercise Goal
+   - This should give a brief explanation of what the exercise is for and what the goal of the solution shold be. Users should be able to tell from this summary whether or not they are interested in completing the exercise.
+2. Tasks
+   - This should contain tasks the user needs to complete to create a solution for the exercise. Tasks can be either broad or specific, but should be relevant to the solution of the exercise.
+3. Skills
+   - This can either be dedicated to skills the user needs in order to complete the exercise, or skills that they will develop by completing the exercise. In either case, ensure that skills are labeled so that the user knows if they need to have prior knowledge to gain value from completing the exercise.
+4. Resources
+   - This section is optional, but encouraged. Resources can be tutorials or documentation on packages or libraries needed to complete the task, articles related to the topic it is focused on, or even other projects in the repository. Anything that could be of use to the user in creating a solution should be included in this section. 
+5. Data Information
+   - This should contain a brief background on any data included in the exercise. Although the bulk of this explanation will be located in the data subdirectory itself, this section should consist of short summary of that information.
+6. Reference / Acknowledgements
+    - This section is also optional depending on if there are any neccesary citations or acknolwedgments needed for the exercise.
+7. Additional Sections
+   - Additional sections can be added if needed. However, please only do so AFTER the sections listed above. This ensures that users can find all of this information in an expected place. 
+
+
